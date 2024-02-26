@@ -4,7 +4,7 @@
 ## Files and directories in the repository
 
 ### [data](./data/)
-Original datasets of three ICS protocols (ATG, modbus, S7) after label and feature processing (Datasets were based on [yunyueye's work](https://github.com/yunyueye/honeypot), more details about datasets please refer [here](), The original raw data of datasets were captured and authorized by [Ditecting](https://www.ditecting.com/) with some attributes were queried from [Shodan's API](https://developer.shodan.io/api/clients))
+Original datasets of three ICS protocols ([ATG](https://secure.apps.nd.gov/doh/operator/Training/OperatorTraining_ATG.pdf), [modbus](https://en.wikipedia.org/wiki/Modbus), [S7](https://wiki.wireshark.org/S7comm)) after label and feature processing (Datasets were based on [yunyueye's work](https://github.com/yunyueye/honeypot), more details about datasets please refer [here](), The original raw data of datasets were captured and authorized by [Ditecting](https://www.ditecting.com/) with some attributes were queried from [Shodan's API](https://developer.shodan.io/api/clients))
 **for legal and ethcial reasons, all IP were hidden**
 
 ### [ml](./ml/)
