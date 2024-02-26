@@ -1,0 +1,919 @@
+ip (hidden),IsHoneypot_new,IsCloud_old,modbusErrorRequestTime (ms),modbusReadRegister,isp_Shodan,org_Shodan,ISP_conclusion,OS_old,OS_accuracy,os_Shodan,tags_Shodan,OS_conclusion,OpenPortNum,hopNum,IpwhoisNetsDescription,domains_Shodan,hostnames_Shodan,city,country,latitude,longitude,vulns
+1,honeypot,TRUE,0.661000013,0|0|0,"The Constant Company, LLC",JW Lucasweg 35,VPS,,,,"honeypot,vpn,self-signed,cloud,database",unknown,7,25,"JW Lucasweg 35
+2031BE, Haarlem
+Netherlands",vultrusercontent.com,95.179.146.208.vultrusercontent.com,,Netherlands,52.3824,4.8995,"CVE-2020-28016,CVE-2010-2024,CVE-2020-28010,CVE-2020-28013,CVE-2020-28012,CVE-2020-28015,CVE-2020-28014,CVE-2020-28017,CVE-2010-2023,CVE-2022-37452,CVE-2022-37451,CVE-2017-1000369,CVE-2011-0017,CVE-2021-27216,CVE-2011-1764,CVE-2020-28024,CVE-2020-28025,CVE-2020-28026,CVE-2020-28020,CVE-2020-28021,CVE-2020-28022,CVE-2020-28023,CVE-2016-1531,CVE-2020-28007,CVE-2016-9963,CVE-2020-28008,CVE-2020-28009,CVE-2020-28011,CVE-2010-4345,CVE-2010-4344,CVE-2018-6789,CVE-2014-2957,CVE-2014-2972,CVE-2019-15846,CVE-2020-8015,CVE-2020-12783"
+2,honeypot,FALSE,56.75399995,0|0|0,Sharktech,Sharktech Inc.,hosting,Linux 3.11 - 4.1,100,,honeypot,Linux,2,25,Sharktech,,,Las Vegas,United States,36.0768,-115.0891,
+3,honeypot,TRUE,0.34100008,0|0|0,"The Constant Company, LLC","Vultr Holdings, LLC",VPS,,,,"honeypot,vpn,self-signed,cloud,database",unknown,7,26,"Choopa, LLC",vultrusercontent.com,144.202.125.229.vultrusercontent.com,Los Angeles,United States,34.0729,-118.2606,
+4,honeypot,TRUE,0.339999914,0|0|0,"The Constant Company, LLC","Vultr Holdings, LLC",VPS,,,,"database,self-signed,doublepulsar,honeypot,vpn,cloud",unknown,7,22,"Choopa, LLC",vultrusercontent.com,45.63.53.122.vultrusercontent.com,Los Angeles,United States,34.0729,-118.2606,"CVE-2020-28016,CVE-2010-2024,CVE-2020-28010,CVE-2020-28013,CVE-2020-28012,CVE-2020-28015,CVE-2020-28014,CVE-2020-28017,CVE-2010-2023,CVE-2022-37452,CVE-2022-37451,CVE-2017-1000369,CVE-2011-0017,CVE-2021-27216,CVE-2011-1764,CVE-2020-28024,CVE-2020-28025,CVE-2020-28026,CVE-2020-28020,CVE-2020-28021,CVE-2020-28022,CVE-2020-28023,CVE-2016-1531,MS17-010,CVE-2020-28007,CVE-2016-9963,CVE-2020-28008,CVE-2020-28009,CVE-2020-28011,CVE-2010-4345,CVE-2010-4344,CVE-2018-6789,CVE-2014-2957,CVE-2014-2972,CVE-2019-15846,CVE-2020-8015,CVE-2020-12783"
+5,honeypot,FALSE,2050.284,0|0|0,SURF B.V.,SURFnet bv,hosting,Linux 2.6.32,91,,"ics,honeypot",Linux,1,27,"SURFnet bv
+P.O. Box 19035
+3501 DA  Utrecht",as1101.net,caprica.as1101.net,,Netherlands,52.3824,4.8995,
+6,honeypot,TRUE,8.013000011,0|0|0,"The Constant Company, LLC","Vultr Holdings, LLC",VPS,,,,"database,self-signed,doublepulsar,honeypot,vpn,cloud",unknown,7,26,"Choopa, LLC",vultrusercontent.com,45.77.112.144.vultrusercontent.com,Miami,United States,25.8124,-80.2401,"CVE-2020-28016,CVE-2010-2024,CVE-2020-28010,CVE-2020-28013,CVE-2020-28012,CVE-2020-28015,CVE-2020-28014,CVE-2020-28017,CVE-2010-2023,CVE-2022-37452,CVE-2022-37451,CVE-2017-1000369,CVE-2011-0017,CVE-2021-27216,CVE-2011-1764,CVE-2020-28024,CVE-2020-28025,CVE-2020-28026,CVE-2020-28020,CVE-2020-28021,CVE-2020-28022,CVE-2020-28023,CVE-2016-1531,MS17-010,CVE-2020-28007,CVE-2016-9963,CVE-2020-28008,CVE-2020-28009,CVE-2020-28011,CVE-2010-4345,CVE-2010-4344,CVE-2018-6789,CVE-2014-2957,CVE-2014-2972,CVE-2019-15846,CVE-2020-8015,CVE-2020-12783"
+7,honeypot,TRUE,8.006000042,0|0|0,"The Constant Company, LLC","The Constant Company, LLC",VPS,,,,"honeypot,vpn,cloud",unknown,1,24,TYO_VULTR_CUST,vultrusercontent.com,202.182.112.254.vultrusercontent.com,Heiwajima,Japan,35.5826,139.7459,
+8,honeypot,FALSE,8,0|0|0,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",cloud,,,,"ics,honeypot,vpn",unknown,7,25,"Tencent Cloud Computing (Beijing) Co., Ltd
+Floor 6, Yinke Building, 38 Haidian St, Haidian District",,,,China,39.9289,116.3883,
+9,honeypot,FALSE,0.249000072,0|0|0,VNPT Corp,VietNam Data Communication Company,telecom,,,,"honeypot,self-signed,medical,database",unknown,7,18,VietNam Data Communication Company,"example.com,vnpt.vn","example.com,static.vnpt.vn",,Vietnam,16,106,
+10,honeypot,TRUE,8.010999918,0|0|0,"The Constant Company, LLC","Vultr Holdings, LLC",VPS,,,,"honeypot,self-signed,cloud",unknown,0,28,"Choopa, LLC",vultrusercontent.com,45.77.94.150.vultrusercontent.com,Miami,United States,25.8124,-80.2401,"CVE-2020-28016,CVE-2010-2024,CVE-2020-28010,CVE-2020-28013,CVE-2020-28012,CVE-2020-28015,CVE-2020-28014,CVE-2020-28017,CVE-2010-2023,CVE-2022-37452,CVE-2022-37451,CVE-2017-1000369,CVE-2011-0017,CVE-2021-27216,CVE-2011-1764,CVE-2020-28024,CVE-2020-28025,CVE-2020-28026,CVE-2020-28020,CVE-2020-28021,CVE-2020-28022,CVE-2020-28023,CVE-2016-1531,CVE-2020-28007,CVE-2016-9963,CVE-2020-28008,CVE-2020-28009,CVE-2020-28011,CVE-2010-4345,CVE-2010-4344,CVE-2018-6789,CVE-2014-2957,CVE-2014-2972,CVE-2019-15846,CVE-2020-8015,CVE-2020-12783"
+11,honeypot,TRUE,0.680000067,0|0|0,"The Constant Company, LLC","Vultr Holdings, LLC",VPS,,,,"database,self-signed,doublepulsar,honeypot,vpn,cloud",unknown,7,21,"Choopa, LLC",vultrusercontent.com,45.76.145.19.vultrusercontent.com,Singapore,Singapore,1.2931,103.8558,"CVE-2020-28016,CVE-2010-2024,CVE-2020-28010,CVE-2020-28013,CVE-2020-28012,CVE-2020-28015,CVE-2020-28014,CVE-2020-28017,CVE-2010-2023,CVE-2022-37452,CVE-2022-37451,CVE-2017-1000369,CVE-2011-0017,CVE-2021-27216,CVE-2011-1764,CVE-2020-28024,CVE-2020-28025,CVE-2020-28026,CVE-2020-28020,CVE-2020-28021,CVE-2020-28022,CVE-2020-28023,CVE-2016-1531,MS17-010,CVE-2020-28007,CVE-2016-9963,CVE-2020-28008,CVE-2020-28009,CVE-2020-28011,CVE-2010-4345,CVE-2010-4344,CVE-2018-6789,CVE-2014-2957,CVE-2014-2972,CVE-2019-15846,CVE-2020-8015,CVE-2020-12783"
+12,honeypot,TRUE,8.009000063,0|0|0,Hrvatski Telekom d.d.,Hrvatski Telekom d.d.,telecom,,,,"self-signed,honeypot,doublepulsar,database",unknown,7,30,"Hrvatski Telekom d.d.
+Croatian Telecom Inc.
+This space is statically assigned.",,,Sveti Martin na Muri,Croatia,46.5269,16.375,"CVE-2020-1938,MS17-010"
+13,honeypot,TRUE,0.634000063,0|0|0,"The Constant Company, LLC",JW Lucasweg 35,VPS,,,,"database,self-signed,doublepulsar,honeypot,vpn,cloud",unknown,7,24,"JW Lucasweg 35
+2031BE, Haarlem
+Netherlands",vultrusercontent.com,78.141.208.59.vultrusercontent.com,,United Kingdom,51.4964,-0.1224,"CVE-2020-28016,CVE-2010-2024,CVE-2020-28010,CVE-2020-28013,CVE-2020-28012,CVE-2020-28015,CVE-2020-28014,CVE-2020-28017,CVE-2010-2023,CVE-2022-37452,CVE-2022-37451,CVE-2017-1000369,CVE-2011-0017,CVE-2021-27216,CVE-2011-1764,CVE-2020-28024,CVE-2020-28025,CVE-2020-28026,CVE-2020-28020,CVE-2020-28021,CVE-2020-28022,CVE-2020-28023,CVE-2016-1531,MS17-010,CVE-2020-28007,CVE-2016-9963,CVE-2020-28008,CVE-2020-28009,CVE-2020-28011,CVE-2010-4345,CVE-2010-4344,CVE-2018-6789,CVE-2014-2957,CVE-2014-2972,CVE-2019-15846,CVE-2020-8015,CVE-2020-12783"
+14,honeypot,TRUE,0.855999947,0|0|0,"The Constant Company, LLC","Vultr Holdings, LLC",VPS,,,,"database,self-signed,doublepulsar,honeypot,vpn,cloud",unknown,6,26,"Choopa, LLC",vultrusercontent.com,45.76.177.142.vultrusercontent.com,Singapore,Singapore,1.2931,103.8558,"CVE-2020-28016,CVE-2010-2024,CVE-2020-28010,CVE-2020-28013,CVE-2020-28012,CVE-2020-28015,CVE-2020-28014,CVE-2020-28017,CVE-2010-2023,CVE-2022-37452,CVE-2022-37451,CVE-2017-1000369,CVE-2011-0017,CVE-2021-27216,CVE-2011-1764,CVE-2020-28024,CVE-2020-28025,CVE-2020-28026,CVE-2020-28020,CVE-2020-28021,CVE-2020-28022,CVE-2020-28023,CVE-2016-1531,MS17-010,CVE-2020-28007,CVE-2016-9963,CVE-2020-28008,CVE-2020-28009,CVE-2020-28011,CVE-2010-4345,CVE-2010-4344,CVE-2018-6789,CVE-2014-2957,CVE-2014-2972,CVE-2019-15846,CVE-2020-8015,CVE-2020-12783"
+15,honeypot,TRUE,8.006000042,0|0|0,"The Constant Company, LLC","Vultr Holdings, LLC",VPS,Linux 2.6.32,85,,"iot,honeypot,vpn,cloud",Linux,6,23,"Choopa, LLC",vultrusercontent.com,149.248.62.221.vultrusercontent.com,Matawan,United States,40.4652,-74.2307,
+16,honeypot,TRUE,0.962000132,connection failed,"DigitalOcean, LLC","DigitalOcean, LLC",cloud,Linux 2.6.32,96,Debian,cloud,Linux,1,26,"DigitalOcean, LLC",,,Eugene,United States,44.0486,-123.2197,
+17,other,TRUE,99.68700004,17578|68|88,AT&T Mobility LLC,Service Provider Corporation,telecom,Tomato 1.27 - 1.28 (Linux 2.4.20),89,,self-signed,proprietary,1,24,Service Provider Corporation,mycingular.net,mobile-166-130-128-99.mycingular.net,Atlanta,United States,33.749,-84.388,
+18,honeypot,TRUE,60.39499998,connection failed,,,cloud,Citrix NetScaler load balancer,88,,,proprietary,0,30,blueconnect,,,,Poland,52.2394,21.0362,
+19,honeypot,TRUE,2042.677,0|0|0,,,telecom,,,,,unknown,0,22,Korea Telecom,,,Ulsan,Republic of Korea,35.5372,129.3167,
+20,honeypot,TRUE,2042.685,0|0|0,,,telecom,,,,,unknown,0,22,Korea Telecom,,,Changwon,Republic of Korea,35.2753,128.6515,
+21,honeypot,TRUE,66.58899999,connection failed,,,telecom,,,,,unknown,0,30,Orange Mobile,,,Lipowo,Poland,53.378,20.2731,
+22,honeypot,TRUE,2042.705,0|0|0,,,telecom,,,,,unknown,0,23,Korea Telecom,,,Changwon,Republic of Korea,35.2753,128.6515,
+23,honeypot,TRUE,130.487,connection failed,,,telecom,,,,,unknown,0,30,Orange Mobile,,,Lipowo,Poland,53.378,20.2731,
+24,other,TRUE,105.881,connection failed,,,telecom,Cisco 2600 router (IOS 11.3),94,,,proprietary,0,22,Orange Mobile,,,Trutnowy,Poland,54.241,18.8073,
+25,honeypot,TRUE,116.9530001,connection failed,,,telecom,,,,,unknown,0,30,Orange Mobile,,,Lipowo,Poland,53.378,20.2731,
+26,other,TRUE,120.0209999,connection failed,,,telecom,F5 BIG-IP Edge Gateway,96,,,proprietary,0,30,Orange Mobile,,,Lipowo,Poland,53.378,20.2731,
+27,honeypot,TRUE,739.596,connection failed,,,cloud,Citrix NetScaler load balancer,94,,,proprietary,0,21,Orange Mobile,,,Gruszczyn,Poland,52.435,17.07,
+28,honeypot,TRUE,2042.753,0|0|0,,,telecom,,,,,unknown,0,21,Korea Telecom,,,Changwon,Republic of Korea,35.2753,128.6515,
+29,other,TRUE,1.010999918,connection failed,,,telecom,Enterasys XP-8000 switch,86,,,proprietary,0,19,DOLSAT CUSTOMERS,,,Bełchatów,Poland,51.3613,19.3724,
+30,other,TRUE,0.996999979,0|0|0,DOLSAT sp. z o.o.,DOLSAT sp. z o.o.,telecom,Motorola RFS 6000 wireless switch,95,,ics,proprietary,1,23,DOLSAT CUSTOMERS,dolsat.pl,h-87-199-31-9.dolsat.pl,Bełchatów,Poland,51.3613,19.3724,
+31,honeypot,TRUE,0.986000061,0|0|0,,,telecom,Linux 3.2 - 3.8,100,,,Linux,0,26,DOLSAT CUSTOMERS,,,Bełchatów,Poland,51.3613,19.3724,
+32,honeypot,TRUE,1.144000053,25|2|88,TTNet A.S.,Turk Telekomunikasyon Anonim Sirketi,telecom,,,,"ics,self-signed",unknown,0,22,TT ADSL-static_ulus,ttnet.com.tr,88.225.235.72.static.ttnet.com.tr,,Turkey,37.9193,30.9924,
+33,honeypot,TRUE,14.84899998,0|0|0,,,telecom,,,,,unknown,0,25,"Multimedia Polska S. A.
+Cable Internet Voice Provider
+Node Gdynia",,,Stargard,Poland,53.3366,15.0321,
+34,other,TRUE,134.5,0|0|0,,,telecom,HP ProLiant BL p-Class C-Gbe2 switch,94,,,proprietary,1,30,Baron computer,,,Siroka Niva,Czechia,50.0667,17.4833,
+35,other,TRUE,2.520999908,connection failed,,,unknown,Cisco 2600 router (IOS 11.3),92,,,proprietary,0,22,blueconnect,,,,Poland,52.2394,21.0362,
+36,other,TRUE,720.878,connection failed,,,telecom,Cisco 2600 router (IOS 11.3),94,,,proprietary,0,22,Orange Mobile,,,Lipowo,Poland,53.378,20.2731,
+37,other,TRUE,66.09099984,connection failed,,,telecom,F5 BIG-IP Edge Gateway,96,,,proprietary,0,24,Orange Mobile,,,Głogów,Poland,51.6557,16.089,
+38,other,TRUE,90.74500012,connection failed,,,unknown,Linksys BEFSR41 EtherFast router,86,,,proprietary,0,22,,,,Rožňava,Slovakia,48.6601,20.5376,
+39,other,TRUE,93.99099994,0|0|0,Stacja-NET Marek Goclowski,Stacja-NET Marek Goclowski,telecom,Linksys BEFSR41 EtherFast router,90,,,proprietary,0,22,,,,Ostrołęka,Poland,53.0788,21.5766,
+40,other,TRUE,138.3209999,0|0|0,,,telecom,Linksys BEFSR41 EtherFast router,86,,,proprietary,2,23,MTN Business SA Customer,,,,South Africa,-29,24,
+41,other,TRUE,97.977,0|0|0,,,telecom,Linksys BEFSR41 EtherFast router,85,,,proprietary,2,25,XDSL access and service provider in Norway,,,Fredrikstad,Norway,59.2167,10.95,
+42,other,TRUE,832.5549998,172|0|88,Net Global Srl,Net Global Srl,telecom,Grandstream GXV3275 video phone,92,,self-signed,proprietary,1,30,,4all.it,90-25-187-213.4all.it,Pernumia,Italy,45.259,11.7872,
+43,ICS,TRUE,99.51699996,0|0|0,UAB Mezon,UAB Bite Lietuva,telecom,Papouch TME Ethernet thermometer,87,,,ICS,2,22,,,,Vilnius,Republic of Lithuania,54.6833,25.3167,
+44,honeypot,FALSE,10.13599992,connection failed,UAB Bite Lietuva,Bite Lietuva,telecom,,,,ics,unknown,2,22,Bite Lietuva,bitemobile.lt,IN-84-15-135-038.bitemobile.lt,Kaunas,Republic of Lithuania,54.9,23.9,
+45,honeypot,FALSE,8.010999918,connection failed,Vodafone Romania S.A.,Vodafone Romania S.A.,telecom,,,,,unknown,1,27,,vodafone.ro,static-sub-mobile-46.97.201.247.vodafone.ro,Braşov,Romania,45.597,25.5525,
+46,honeypot,FALSE,8.000999928,connection failed,TURKCELL ILETISIM HIZMETLERI A.S.,TURKCELL INTERNET,telecom,Linux 2.4.20,95,,ics,Linux,1,28,TURKCELL INTERNET,,,,Turkey,41.0214,28.9948,
+47,honeypot,FALSE,19.39299989,connection failed,Verizon Business,Service Provider Corporation,telecom,,,,ics,unknown,1,25,Service Provider Corporation,myvzw.com,249.sub-166-141-247.myvzw.com,,United States,37.751,-97.822,
+48,honeypot,FALSE,8.00999999,connection failed,TELEFONICA DE ESPANA S.A.U.,TELEFONICA DE ESPANA S.A.U.,telecom,,,,ics,unknown,0,30,Red de servicios IP,rima-tde.net,177.red-193-152-84.staticip.rima-tde.net,,Spain,40.4172,-3.684,
+49,honeypot,FALSE,8.013999939,0|0|0,TELEFONICA DE ESPANA S.A.U.,TELEFONICA DE ESPANA S.A.U.,telecom,,,,ics,unknown,4,26,Red de servicios IP,rima-tde.net,131.red-95-124-241.staticip.rima-tde.net,,Spain,40.4172,-3.684,
+50,honeypot,FALSE,2036.176,0|0|0,TURKCELL ILETISIM HIZMETLERI A.S.,TURKCELL INTERNET,telecom,,,,,unknown,1,29,TURKCELL INTERNET,,,,Turkey,41.0214,28.9948,
+51,honeypot,FALSE,2051.371,0|0|0,,,telecom,,,,,unknown,0,30,"Multimedia Polska S. A.
+Cable Internet Voice Provider
+Node Gdynia",,,Stargard,Poland,53.3366,15.0321,
+52,other,FALSE,131.52,0|0|0,,,unknown,Apple AirPort Extreme WAP,90,,,proprietary,0,22,Service Provider Corporation,,,,United States,37.751,-97.822,
+53,ICS,FALSE,127.112,25|39304|16505,Boras Energi Nat AB,Boras Energy Net AB,industry,Linux 2.4.20,100,,,Linux,1,22,"Boras Energy Net AB
+Box 1714
+SE-501 17 Boras",bornet.net,host169-8.bornet.net,Borås,Sweden,57.7167,12.9167,CVE-2022-41556
+54,ICS,FALSE,111.2880001,25|2|88,Boras Energi Nat AB,Boras Energy Net AB,industry,Linux 2.4.20,100,,,Linux,2,24,"Boras Energy Net AB
+Box 1714
+SE-501 17 Boras",bornet.net,host168-246.bornet.net,Borås,Sweden,57.7167,12.9167,
+55,other,FALSE,115.7230001,0|17347|0,PR-TELECOM ZRt.,PRTELECOM CP,telecom,Motorola SURFboard SB6120 or SB6141 cable modem (Linux 2.6.18),94,,"ics,vpn",proprietary,0,21,PRTELECOM CP,prtelecom.hu,host-88-132-57-131.prtelecom.hu,Tata,Hungary,47.65,18.3167,
+56,ICS,FALSE,139.6229999,25|2|88,Telia Company AB,Telia Company AB,telecom,Linux 4.4,100,Linux,,Linux,2,24,"Telia Network Services
+ISP",telia.com,f81-225-232-133.sore.bredband.telia.com,Trelleborg,Sweden,55.3751,13.1569,"CVE-2018-19052,CVE-2019-11072"
+57,ICS,FALSE,77.68799996,23580|17068|0,Data Communication Business Group,"Data Communication Business Group,",telecom,Espressif ESP8266 WiFi system-on-a-chip,85,,ics,ICS,1,23,"Data Communication Business Group,
+Chunghwa Telecom Co.,Ltd.
+No.21, Sec.1, Xinyi Rd., Taipei City
+10048, Taiwan",hinet.net,61-216-164-176.hinet-ip.hinet.net,Taichung,Taiwan,24.1469,120.6839,
+58,ICS,FALSE,2055.504,25|2|88,Euskaltel S.A.,Euskaltel S.A.,telecom,,,,ics,unknown,0,30,,euskaltel.es,36.62-99-76.static.clientes.euskaltel.es,,Spain,40.4172,-3.684,
+59,other,FALSE,109.7849998,25|2|88,,,telecom,DEC OSF/1 V4.0,86,,,Unix,1,23,Service Provider Corporation,,,,United States,37.751,-97.822,
+60,unknown,FALSE,244.151,0|0|0,,,telecom,Linux 3.11 - 4.1,100,,,Linux,0,22,LNPUT657 Puteaux Bloc 1,,,,France,48.8582,2.3387,
+61,unknown,FALSE,173.529,0|0|0,,,telecom,,,,,unknown,0,22,LNPUT658 Puteaux Bloc 1,,,,France,48.8582,2.3387,
+62,unknown,FALSE,173.7079999,0|0|0,,,telecom,Linux 3.11 - 4.1,92,,,Linux,0,23,LNPUT658 Puteaux Bloc 1,,,,France,48.8582,2.3387,
+63,unknown,FALSE,153.7030001,0|0|0,,,telecom,,,,,unknown,0,23,LNAUB656 Aubervilliers Bloc 2,,,,France,48.8582,2.3387,
+64,unknown,FALSE,162.3579998,0|0|0,,,telecom,,,,,unknown,0,22,LNMSO656 Montsouris Bloc 1,,,,France,48.8582,2.3387,
+65,unknown,FALSE,173.3169999,0|0|0,Orange S.A.,Orange S.A.,telecom,,,,ics,unknown,0,24,LNPUT658 Puteaux Bloc 1,wanadoo.fr,lputeaux-658-1-99-18.w80-13.abo.wanadoo.fr,,France,48.8582,2.3387,
+66,unknown,FALSE,171.0079999,0|0|0,,,telecom,,,,,unknown,0,22,LNSTL656 St Lambert Bloc 1,,,,France,48.8582,2.3387,
+67,unknown,FALSE,149.4200001,0|0|0,Orange S.A.,Orange S.A.,telecom,Linux 3.11 - 4.1,89,,,Linux,0,30,LNAUB657 Aubervilliers Bloc 2,wanadoo.fr,laubervilliers-657-1-19-6.w80-15.abo.wanadoo.fr,Paris,France,48.8637,2.3615,
+68,unknown,FALSE,153.6489999,0|0|0,,,telecom,,,,,unknown,0,30,LNMSO657 Montsouris Bloc 1,,,,France,48.8582,2.3387,
+69,unknown,FALSE,154.3510001,0|0|0,,,telecom,,,,,unknown,0,30,LNMSO657 Montsouris Bloc 1,,,,France,48.8582,2.3387,
+70,unknown,FALSE,170.7869999,0|0|0,Orange S.A.,Orange S.A.,telecom,Linux 2.6.32,92,,,Linux,0,22,LNPUT657 Puteaux Bloc 2,wanadoo.fr,lputeaux-657-1-272-133.w80-15.abo.wanadoo.fr,,France,48.8582,2.3387,
+71,unknown,FALSE,181.3669999,0|0|0,,,telecom,,,,,unknown,0,30,LNPUT656 Puteaux Bloc 2,,,,France,48.8582,2.3387,
+72,unknown,FALSE,165.698,0|0|0,Orange S.A.,Orange S.A.,telecom,Linux 3.11 - 4.1,100,,ics,Linux,0,20,LNPUT658 Puteaux Bloc 1,wanadoo.fr,lputeaux-658-1-118-221.w193-248.abo.wanadoo.fr,,France,48.8582,2.3387,
+73,other,FALSE,152.6099999,1|2|88,"O2 Czech Republic, a.s.","O2 Czech Republic, a.s.",telecom,Axceint Uptiva backup appliance,90,,"ics,vpn",proprietary,0,28,XDSL NETWORK-ADSL,o2.cz,88-102-4-155.rch.o2.cz,Prague,Czechia,50.0833,14.4667,
+74,unknown,FALSE,104.881,0|2|0,"Telia Lietuva, AB",UAB Viciunu grupe,telecom,,,,,unknown,0,22,UAB Viciunu grupe,zebra.lt,81-7-123-185.static.zebra.lt,Kaunas,Republic of Lithuania,54.9,23.9,"CVE-2010-2730,CVE-2010-3972,CVE-2010-1899"
+75,other,FALSE,117.4330001,176|2|88,Net Global Srl,Net Global Srl,telecom,Brother MFC-J6510DW printer,86,,,proprietary,1,22,,4all.it,14-20-187-213.4all.it,Padova,Italy,45.4167,11.8833,
+76,ICS,FALSE,110.6200001,25|2|88,,,telecom,OpenBSD 5.9,94,,,Unix,0,22,COOPERATIVAS DE CALAMUCHITA - CONSORCIO DE COOPERACIN,,,Villa General Belgrano,Argentina,-31.9167,-64.5833,
+77,unknown,FALSE,165.4580002,0|0|0,,,telecom,,,,,unknown,0,22,Romtelecom Data Network,,,Baia de Aries,Romania,46.3805,23.2811,
+78,ICS,FALSE,137.28,52|2|88,,,telecom,,,,,unknown,1,28,CLIENTE ANTEL URUGUAY,,,,Uruguay,-33,-56,
+79,unknown,FALSE,181.5510001,0|0|0,,,telecom,OpenBSD 4.0,88,,,Unix,0,26,"Telecom Italia S.p.A.
+Alice - Smart
+Services",,,Courmayeur,Italy,45.7966,6.9689,
+80,unknown,FALSE,326.586,4|32|21,Telecom Italia S.p.A.,Telecom Italia S.p.A.,telecom,,,,,unknown,2,22,NAS DHCP Pool,telecomitalia.it,host-79-60-44-246.business.telecomitalia.it,Genoa,Italy,44.4167,8.95,
+81,ICS,FALSE,251.777,25|2|88,Vodafone Romania S.A.,Vodafone Romania S.A.,telecom,Linux 3.10,89,,"ics,self-signed",Linux,1,27,,,,Braşov,Romania,45.597,25.5525,
+82,ICS,FALSE,123.99,25|2|88,,,telecom,CMI Genus NEMA terminal,90,,,ICS,0,30,"Telia Network Services
+ISP",,,,Sweden,59.3247,18.056,
+83,ICS,FALSE,123.859,25|2|88,,,telecom,CMI Genus NEMA terminal,90,,,ICS,0,22,"Telia Network Services
+ISP",,,,Sweden,59.3247,18.056,
+84,ICS,FALSE,215.2869999,25|2|88,Vodafone Romania S.A.,Vodafone Romania S.A.,telecom,Linux 3.0,92,,self-signed,Linux,3,22,,vodafone.ro,static-sub-mobile-46.97.206.95.vodafone.ro,Iași,Romania,47.1667,27.6,
+85,unknown,FALSE,254.0469999,0|0|0,Vodafone Romania S.A.,Vodafone Romania S.A.,telecom,Linux 3.0 - 3.2,92,Linux,self-signed,Linux,2,22,,vodafone.ro,static-sub-mobile-46.97.205.111.vodafone.ro,Iași,Romania,47.1667,27.6,
+86,ICS,FALSE,183.063,25|2|88,Vodafone Romania S.A.,Vodafone Romania S.A.,telecom,Linux 3.10,89,,"ics,self-signed",Linux,3,22,,vodafone.ro,static-sub-mobile-46.97.207.234.vodafone.ro,Iași,Romania,47.1667,27.6,
+87,other,FALSE,202.0869999,29|0|24,Vodafone Romania S.A.,Vodafone Romania S.A.,telecom,OpenWrt Designated Driver (Linux 4.4),92,,"ics,self-signed",proprietary,3,22,,vodafone.ro,static-sub-mobile-46.97.207.230.vodafone.ro,Iași,Romania,47.1667,27.6,
+88,ICS,FALSE,409.408,25|2|88,Vodafone Romania S.A.,Vodafone Romania S.A.,telecom,Linux 3.10,89,,"ics,self-signed",Linux,3,28,,vodafone.ro,static-sub-mobile-46.97.207.229.vodafone.ro,Iași,Romania,47.1667,27.6,
+89,other,FALSE,205.0640001,25|2|88,,,unknown,D-Link DSL-2890AL ADSL router,100,,,proprietary,0,22,,,,Braşov,Romania,45.597,25.5525,
+90,ICS,FALSE,149.9070001,25|2|88,,,unknown,,,,,unknown,0,23,FTIP003346723 F P McCann,,,Pembroke Dock,United Kingdom,51.6919,-4.9508,
+91,unknown,FALSE,86.65700006,25|2|27,,,telecom,Linux 3.2 - 3.8,96,,,Linux,1,30,"R Cable y Telecomunicaciones Galicia S.A.
+A Coruna
+Galicia
+Spain",,,Redondela,Spain,42.2834,-8.6096,
+92,ICS,FALSE,247.2359998,25|2|88,Vodafone Romania S.A.,Vodafone Romania S.A.,telecom,Linux 3.0 - 3.2,90,,"ics,self-signed",Linux,1,22,,,,Braşov,Romania,45.597,25.5525,
+93,other,FALSE,32.75,25|2|88,Vodafone Romania S.A.,Vodafone Romania S.A.,telecom,Kyocera CopyStar CS 255 printer,96,,"ics,self-signed",proprietary,1,27,,vodafone.ro,static-sub-mobile-46.97.207.231.vodafone.ro,Iași,Romania,47.1667,27.6,
+94,unknown,FALSE,162.237,25|1|1,Vodafone Romania S.A.,Vodafone Romania S.A.,telecom,,,,self-signed,unknown,1,27,,,,Bucharest,Romania,44.4333,26.1,
+95,unknown,FALSE,164.8329999,25|25|25,Vodafone Romania S.A.,Vodafone Romania S.A.,telecom,,,,self-signed,unknown,1,24,,,,Bucharest,Romania,44.4333,26.1,
+96,other,FALSE,97.44499993,25|2|88,Nostravant S.L.L.,Nostravant S.L.L.,,Grandstream GXV3275 video phone,91,,,proprietary,2,22,,,,Castelló de la Plana,Spain,40.2108,0.0272,
+97,unknown,FALSE,169.8299999,25|68|68,Vodafone Romania S.A.,Vodafone Romania S.A.,telecom,,,,self-signed,unknown,1,22,,,,Bucharest,Romania,44.4333,26.1,
+98,ICS,FALSE,97.704,25|2|88,"Salina Spavinaw Telephone Company, Inc","Salina Spavinaw Telephone Company, Inc",telecom,CMI Genus NEMA terminal,90,,ics,ICS,0,22,"Salina Spavinaw Telephone Company, Inc",,,Locust Grove,United States,36.1214,-95.1688,
+99,other,FALSE,106.539,25|2|88,,,telecom,Check Point UTM-1 Edge X firewall,91,,,proprietary,0,24,"S.C. Trend Network Serv S.R.L.
+Comuna Zetea Harghita
+Principala, 271
+www.netzet.ro",,,,Romania,46,25,
+100,ICS,FALSE,173.1500001,25|2|88,Vodafone Romania S.A.,Vodafone Romania S.A.,telecom,Linux 3.10,89,,"ics,self-signed",Linux,1,27,,,,Braşov,Romania,45.597,25.5525,
+101,ICS,FALSE,183.585,25|2|88,Vodafone Romania S.A.,Vodafone Romania S.A.,telecom,Linux 3.10,89,,"ics,self-signed",Linux,1,22,,vodafone.ro,static-sub-mobile-46.97.205.207.vodafone.ro,Iași,Romania,47.1667,27.6,
+102,unknown,FALSE,114.6919999,25|2|88,ServiHosting Networks S.L.,AIRE NETWORKS DEL MEDITERRANEO SL UNIPERSONAL,telecom,Linux 2.6.32,86,,,Linux,0,24,,,,Socovos,Spain,38.3323,-1.9848,
+103,ICS,FALSE,88.704,25|2|88,INFORMATICA FUENTEALBILLA S.L.,INFORMATICA FUENTEALBILLA S.L.,ambiguous,,,,,unknown,0,24,,,,Iniesta,Spain,39.4333,-1.75,
+104,other,FALSE,115.3230002,14336|17904|22528,,,unknown,Fortinet FortiGate 100D firewall,93,,,proprietary,3,22,COLUMBUS NETWORKS COLOMBIA,,,Medellín,Colombia,6.2518,-75.5636,
+105,unknown,FALSE,123.0910001,0|65046|565,,,telecom,,,,,unknown,0,22,LNSTL658 Saint Lambert bloc 1,,,Nogent-sur-Seine,France,48.4833,3.5,
+106,other,FALSE,81.45799994,25|2|88,,,telecom,Apple AirPort Extreme WAP,90,,,proprietary,2,30,"XS4ALL Internet BV
+DSL customers (only)",,,,Netherlands,52.3824,4.8995,
+107,other,FALSE,87.9519999,30|130|11769,EOLO S.p.A.,EOLO S.p.A.,telecom,MikroTik RouterOS 6.36,92,,ics,proprietary,0,24,,eolo.it,88-147-17-210.static.eolo.it,Milano,Italy,42.7833,12.6,
+108,ICS,FALSE,80.59899998,25|2|88,Telstra Corporation Ltd,Telstra,telecom,,,,"ics,vpn",unknown,0,30,"Telstra
+Level 12, 242 Exhibition St
+Melbourne
+VIC 3000",telstra.net,warrna40.lnk.telstra.net,Collingwood,Australia,-37.8,144.9833,
+109,other,FALSE,69.49899983,25|13107|16565,TELUS Communications Inc.,TELUS Communications Inc.,telecom,"AXIS 205 Network Camera, Buffalo TeraStation NAS device, Linksys WAP54G WAP, or Sony SNC-RZ50N network camera",89,,ics,proprietary,1,30,TELUS Communications Inc.,,,,Canada,43.6319,-79.3716,
+110,unknown,FALSE,132.8380001,0|0|0,,,unknown,,,,,unknown,1,22,Service Provider Corporation,,,,United States,37.751,-97.822,
+111,ICS,FALSE,106.197,25|2|88,,,telecom,,,,,unknown,0,30,TURKCELL INTERNET,,,,Turkey,41.0214,28.9948,
+112,other,FALSE,81.77200007,25|2|88,,,telecom,Cisco 2811 router (IOS 12.X),100,,,proprietary,2,30,KPN Internet Solutions,,,,Netherlands,52.3824,4.8995,
+113,ICS,FALSE,93.99199986,25|2|88,,,telecom,,,,,unknown,0,24,"Tele2 Estonia
+Mobile Services Fixed IP
+                ####################################
+                In case of improper use, please mail
+                <abuse@swip.net>
+                ####################################",,,Tallinn,Estonia,59.4339,24.7281,
+114,unknown,FALSE,151.345,8|3|73,,,unknown,,,,,unknown,2,27,,,,,Spain,40.4172,-3.684,
+115,ICS,FALSE,101.3329999,25|2|88,,,telecom,,,,,unknown,0,27,TURKCELL INTERNET,,,,Turkey,41.0214,28.9948,
+116,ICS,FALSE,89.03799987,24|160|88,,,unknown,Rockwell Automation 1769-L23E-QB1 PLC,89,,,ICS,0,30,,,,Salamanca,Spain,40.9688,-5.6639,
+117,ICS,FALSE,89.64899993,28|16724|112,,,unknown,Rockwell Automation 1769-L23E-QB1 PLC,89,,,ICS,0,30,,,,Salamanca,Spain,40.9688,-5.6639,
+118,ICS,FALSE,80.09699988,25|2|88,,,unknown,Rockwell Automation 1769-L23E-QB1 PLC,97,,,ICS,1,30,"Autowasstraat de Walvis
+ROOSENDAAL",,,Leiden,Netherlands,52.1609,4.4932,
+119,unknown,FALSE,251.2130001,0|0|0,,,telecom,Linux 2.6.32,92,,,Linux,1,30,"PAT/NAT IP addresses POP 0204 for
+Static allocation to Residential/SoHo customer with L3 devices",,,Genoa,Italy,44.4048,8.9444,
+120,unknown,FALSE,85.08599997,25|6|88,,,unknown,Linux 3.6,89,,,Linux,0,30,,,,Kecskemét,Hungary,46.9,19.7833,
+121,unknown,FALSE,151.273,0|0|0,,,unknown,,,,,unknown,2,24,,,,,Spain,40.4172,-3.684,
+122,ICS,FALSE,66.74800015,25|2|88,Korea Telecom,Korea Telecom,telecom,,,,ics,unknown,0,24,Korea Telecom,,,,Republic of Korea,35.25,128.8667,
+123,ICS,FALSE,116.8659999,25|2|88,Telecom Italia S.p.A.,SERVIZI COMUNALI ASSOCIATI SRL,telecom,,,,ics,unknown,0,22,SERVIZI COMUNALI ASSOCIATI SRL,telecomitalia.it,host-88-37-72-123.business.telecomitalia.it,Lecco,Italy,45.8559,9.397,
+124,unknown,FALSE,94.95000005,8|178|0,,,unknown,,,,,unknown,0,22,,,,Boissano,Italy,44.1358,8.2216,
+125,ICS,FALSE,104.8559999,25|2|88,RCS & RDS SA,RCS & RDS Business,telecom,,,,vpn,unknown,0,22,"RCS & RDS Business
+City: Targu Mures",rdsnet.ro,static-5-2-179-21.rdsnet.ro,Târgu Mureş,Romania,46.55,24.5667,
+126,ICS,FALSE,81.579,25|2|88,Videotron Telecom Ltee,Videotron Ltee,telecom,Linux 3.11 - 4.1,100,,ics,Linux,1,23,Videotron Ltee,videotron.ca,modemcable102.212-37-24.static.videotron.ca,Montreal,Canada,45.5115,-73.5683,
+127,other,FALSE,114.174,25|2|41,Airsip Telecomunicaciones S.L.,Airsip Telecomunicaciones S.L.,telecom,Konica Minolta 1600f printer,87,,ics,proprietary,1,23,,airsip.net,185.151.209.10.static.airsip.net,Valencia,Spain,39.4667,-0.3667,
+128,ICS,FALSE,70.19300008,25|2|88,Saskatchewan Telecommunications,SaskTel Wide Area Network Engineering Center,telecom,,,,ics,unknown,0,22,Saskatchewan Telecommunications,sasknet.sk.ca,69-11-102-200.yktn.static.sasknet.sk.ca,Buchanan,Canada,51.7,-102.75,
+129,ICS,FALSE,70.26200008,25|2|88,Saskatchewan Telecommunications,SaskTel Wide Area Network Engineering Center,telecom,,,,ics,unknown,0,30,Saskatchewan Telecommunications,sasknet.sk.ca,71-17-141-168.msjw.static.sasknet.sk.ca,Moose Jaw,Canada,50.3895,-105.5578,
+130,ICS,FALSE,62.9519999,25|2|88,,,telecom,,,,,unknown,0,23,Cox Communications Inc.,,,Wichita,United States,37.7014,-97.4405,
+131,other,FALSE,71.16899991,25|2|2437,,,unknown,AirSpan ProST WiMAX access point,94,,,proprietary,1,23,Service Provider Corporation,,,,United States,37.751,-97.822,
+132,other,FALSE,88.48199987,25|2|5891,,,unknown,Canon imageRUNNER C2380 or C2880i or Xerox Phaser 8860MFP printer,95,,,proprietary,1,23,Service Provider Corporation,,,,United States,37.751,-97.822,
+133,other,FALSE,71.95900011,25|16389|88,,,unknown,AirSpan ProST WiMAX access point,94,,,proprietary,1,22,Service Provider Corporation,,,,United States,37.751,-97.822,
+134,other,FALSE,70.43999982,25|68|88,,,unknown,Canon imageRUNNER C2380 or C2880i or Xerox Phaser 8860MFP printer,95,,,proprietary,1,22,Service Provider Corporation,,,,United States,37.751,-97.822,
+135,other,FALSE,72.23900008,25|2|88,,,unknown,Canon imageRUNNER C2380 or C2880i or Xerox Phaser 8860MFP printer,95,,,proprietary,1,23,Service Provider Corporation,,,,United States,37.751,-97.822,
+136,unknown,FALSE,110.556,25|2|88,,,unknown,Linux 2.6.20,94,,,Linux,0,30,Red de servicios IP,,,,Spain,40.4172,-3.684,
+137,other,FALSE,115.747,24|2|88,,,telecom,ZyXEL ZyWALL 2 firewall or Prestige 660HW-61 ADSL router (ZyNOS 3.62),93,,,proprietary,3,22,LNAUB656 Aubervilliers Bloc 1,,,,France,48.8582,2.3387,
+138,unknown,FALSE,107.3009999,12096|3|15560,,,telecom,,,,,unknown,0,22,LNPUT657 Puteaux Bloc 1,,,,France,48.8582,2.3387,
+139,unknown,FALSE,103.4960001,0|0|0,,,telecom,,,,,unknown,0,22,LNAUB656 Aubervilliers,,,,France,48.8582,2.3387,
+140,unknown,FALSE,105.2249999,1600|2|0,,,telecom,,,,,unknown,0,22,LNPUT658 Puteaux Bloc 2,,,,France,48.8582,2.3387,
+141,unknown,FALSE,101.5929999,17360|49200|17120,,,telecom,,,,,unknown,0,23,LNPUT656 Puteaux Bloc 1,,,,France,48.8582,2.3387,
+142,unknown,FALSE,113.0740001,12416|3|3,,,telecom,,,,,unknown,0,30,LNPUT658 Puteaux Bloc 2,,,Cachan,France,48.7963,2.3366,
+143,unknown,FALSE,93.53299999,0|0|0,,,unknown,,,,,unknown,0,22,Rattviks kommun,,,Tyreso Strand,Sweden,59.2333,18.3,
+144,other,FALSE,95.87000012,1196|0|0,,,unknown,Brother MFC-J6510DW printer,86,,,proprietary,1,30,,,,Rovigo,Italy,45.0698,11.7902,
+145,other,FALSE,142.0800002,25|2|88,,,telecom,Fortinet FortiGate 100D firewall,88,,,proprietary,1,22,Com4 AS,,,Drammen,Norway,59.7425,10.2117,
+146,ICS,FALSE,105.2409999,25|2|88,,,telecom,Linux 3.0 - 3.2,88,,,Linux,3,24,PPP Customers,,,,Italy,43.1479,12.1097,
+147,ICS,FALSE,111.1849999,25|2|88,,,telecom,Linux 2.6.32,99,,,Linux,1,23,"Proxad / Free SAS
+Static IP address (Freebox)
+NCC#2007023917",,,Cornimont,France,47.96,6.8304,
+148,ICS,FALSE,85.62100005,25|2|88,,,telecom,,,,,unknown,0,23,ADSL endpoints NAT conections only,,,,United Kingdom,51.4964,-0.1224,
+149,unknown,FALSE,98.00499988,0|0|0,,,telecom,"Microsoft Windows Vista SP0 or SP1, Windows Server 2008 SP1, or Windows 7",100,,,Windows,1,21,LNMSO659 Montsouris Bloc 1,,,,France,48.8582,2.3387,
+150,unknown,FALSE,98.67400002,11136|3|15760,,,telecom,Microsoft Windows Server 2008 or 2008 Beta 3,100,,,Windows,1,23,LNMSO658 Montsouris Bloc 1,,,Bordeaux,France,44.8404,-0.5805,
+151,unknown,FALSE,97.88999987,11960|3|17596,,,telecom,,,,,unknown,0,22,LNMSO658 Montsouris Bloc 1,,,,France,48.8582,2.3387,
+152,ICS,FALSE,100.6569998,25|2|88,,,telecom,,,,,unknown,0,22,LNAUB659 Aubervilliers bloc 1,,,,France,48.8582,2.3387,
+153,unknown,FALSE,96.89199996,10744|3|12648,,,telecom,,,,,unknown,0,22,LNSTL657 Saint Lambert Bloc 1,,,,France,48.8582,2.3387,
+154,unknown,FALSE,97.74899983,11032|3|16248,,,telecom,Microsoft Windows Server 2008 or 2008 Beta 3,97,,,Windows,1,22,LNSTL656 St Lambert bloc 1,,,Gagny,France,48.8833,2.5333,
+155,unknown,FALSE,98.76200008,13680|3|15160,,,telecom,FreeBSD 5.5-RELEASE,85,,,Unix,1,22,LNPUT657 Puteaux Bloc 1,,,,France,48.8582,2.3387,
+156,unknown,FALSE,98.60399985,10280|3|14480,,,telecom,,,,,unknown,0,30,LNPUT657 Puteaux Bloc 2,,,,France,48.8582,2.3387,
+157,other,FALSE,95.96400023,11088|3|17396,,,telecom,Linksys BEFSR41 EtherFast router,89,,,proprietary,2,28,LNMSO656 Montsouris Bloc 1,,,,France,48.8582,2.3387,
+158,unknown,FALSE,124.2680001,11240|3|18044,,,telecom,Microsoft Windows Server 2008 R2 SP1,100,,,Windows,1,26,LNAUB658 Aubervilliers Bloc 2,,,Paris,France,48.8628,2.3292,
+159,unknown,FALSE,96.94499993,12720|3|12880,,,telecom,Microsoft Windows Server 2008 or 2008 Beta 3,100,,,Windows,1,30,LNAUB659 Aubervilliers bloc 2,,,Bagneaux-sur-Loing,France,48.2331,2.7067,
+160,honeypot,FALSE,95.42600012,25|2|17664,,,cloud,VMware ESXi 5.0,91,,,ambiguous,1,22,LNAUB658 Aubervilliers Bloc 1,,,,France,48.8582,2.3387,
+161,unknown,FALSE,102.5359998,9|0|88,,,telecom,Microsoft Windows XP SP3,89,,,Windows,2,30,LNAUB659 Aubervilliers bloc 2,,,La Courneuve,France,48.928,2.3963,
+162,other,FALSE,94.82799983,25|2|88,,,telecom,Canon imageRUNNER C2380 or C2880i or Xerox Phaser 8860MFP printer,100,,,proprietary,0,25,BT-ADSL,,,Manchester,United Kingdom,53.4663,-2.1342,
+163,other,FALSE,98.83899999,12816|3|15960,,,telecom,Microsoft Windows Server 2008 or 2008 Beta 3,100,,,Windows,1,30,LNAUB656 Aubervilliers,,,,France,48.8582,2.3387,
+164,ICS,FALSE,85.1730001,25|2|88,,,telecom,Linux 2.4.20,100,,,Linux,2,30,KELETRONIC Ltd.,,,Oroszlany,Hungary,47.4833,18.3167,
+165,ICS,FALSE,97.08299994,25|2|88,,,telecom,,,,,unknown,0,30,LNMSO657 Montsouris  FIXES,,,,France,48.8582,2.3387,
+166,ICS,FALSE,88.02400017,25|2|88,,,unknown,,,,,unknown,2,21,"Infrastructure for Fastweb's main location
+IP addresses for Small Business Customer, public subnet",,,Turin,Italy,45.05,7.6667,
+167,unknown,FALSE,96.04400015,13208|3|15488,,,telecom,,,,,unknown,0,30,LNMSO655 Montsouris Bloc 2,,,,France,48.8582,2.3387,
+168,unknown,FALSE,96.08099985,13224|3|16740,,,telecom,,,,,unknown,0,21,LNMSO655 Montsouris Bloc 2,,,,France,48.8582,2.3387,
+169,ICS,FALSE,97.06099987,25|2|88,,,telecom,,,,,unknown,0,24,LNSTL656 St Lambert Bloc 2,,,,France,48.8582,2.3387,
+170,unknown,FALSE,99.7329998,11496|3|19284,,,telecom,,,,,unknown,0,24,LNMSO655 Montsouris Bloc 2,,,,France,48.8582,2.3387,
+171,other,FALSE,78.75399995,25|2|88,,,telecom,SiliconDust HDHomeRun set top box,86,,,proprietary,2,22,TELUS Communications Inc.,,,,Canada,43.6319,-79.3716,
+172,unknown,FALSE,88.56900001,25|2|88,,,unknown,,,,,unknown,0,23,Rattviks kommun,,,Tyreso Strand,Sweden,59.2333,18.3,
+173,unknown,FALSE,104.3800001,25|2|88,,,unknown,,,,,unknown,0,22,,,,Madrid,Spain,40.4167,-3.6838,
+174,ICS,FALSE,88.54699993,25|2|88,,,telecom,,,,,unknown,0,30,LNMSO656 Montsouris Bloc 2,,,Puteaux,France,48.8834,2.2389,
+175,unknown,FALSE,100.381,71|91|417,,,telecom,,,,,unknown,0,26,LNAUB658 Aubervilliers Bloc 2,,,,France,48.8582,2.3387,
+176,other,FALSE,110.506,0|0|0,,,unknown,HP 4200 PSA (Print Server Appliance) model J4117A,100,,,proprietary,1,22,,,,"L""Isle-sur-la-Sorgue",France,43.8932,5.1135,
+177,other,FALSE,77.76900005,25|2|88,,,telecom,Netopia 3386 ADSL router,87,,,proprietary,2,23,ADSL,,,Roscrea,Ireland,52.9511,-7.8017,
+178,ICS,FALSE,97.23600006,25|2|88,,,telecom,Rockwell Automation 1769-L23E-QB1 PLC,89,,,ICS,1,22,LNMSO656 Montsouris Bloc 1,,,,France,48.8582,2.3387,
+179,unknown,FALSE,96.31500006,0|0|0,,,telecom,Microsoft Windows XP SP3 or Small Business Server 2003,100,,,Windows,1,30,LNMSO657 Montsouris Bloc 1,,,,France,48.8582,2.3387,
+180,other,FALSE,83.37899995,25|2|88,,,telecom,Linksys BEFSR41 EtherFast router,90,,,proprietary,2,21,ADSL,,,Roscrea,Ireland,52.9511,-7.8017,
+181,ICS,FALSE,96.90799999,25|2|88,,,telecom,OpenBSD 4.0,90,,,Unix,0,22,LNMSO655 Montsouris Bloc 2,,,,France,48.8582,2.3387,
+182,ICS,FALSE,76.13499999,25|2|88,,,telecom,,,,,unknown,0,23,"Telstra
+Level 12, 242 Exhibition St
+Melbourne
+VIC 3000",,,Nambour,Australia,-26.6261,152.9594,
+183,unknown,FALSE,100.823,25|8448|4384,,,telecom,,,,,unknown,2,26,LNMSO655 Montsouris Bloc 2,,,,France,48.8582,2.3387,
+184,ICS,FALSE,68.82700014,25|2|88,,,telecom,,,,,unknown,0,26,"Comcast Cable Communications, LLC",,,Boynton Beach,United States,26.5282,-80.0843,
+185,ICS,FALSE,70.98100019,25|2|88,,,telecom,,,,,unknown,0,26,Charter Communications Inc,,,Columbus,United States,39.9537,-82.9317,
+186,other,FALSE,86.85000014,25|2|88,,,telecom,ZyXEL ZyWALL USG 20 or USG 50 firewall (ZyNOS 2.21),100,,,proprietary,0,22,LNNLY657 Neuilly Bloc 2,,,,France,48.8582,2.3387,
+187,ICS,FALSE,87.6170001,25|2|88,,,telecom,Linux 3.11 - 4.1,100,,,Linux,1,22,LNAUB659 Aubervilliers Bloc 2,,,,France,48.8582,2.3387,
+188,unknown,FALSE,68.05699992,9091|252|8,,,telecom,,,,,unknown,0,22,Charter Communications Inc,,,New York,United States,40.7391,-73.9826,
+189,unknown,FALSE,95.76900005,12704|3|18332,,,unknown,,,,,unknown,0,22,Dynamic pools,,,Plouenan,France,48.6333,-4,
+190,ICS,FALSE,66.98600006,25|2|88,,,telecom,,,,,unknown,0,30,"Comcast Cable Communications, LLC",,,Shreveport,United States,32.4663,-93.8142,
+191,ICS,FALSE,85.83899999,25|2|88,,,telecom,,,,,unknown,0,23,TELUS Communications Inc.,,,,Canada,43.6319,-79.3716,
+192,ICS,FALSE,68.76999998,25|2|88,,,telecom,,,,,unknown,0,23,"Comcast Cable Communications, LLC",,,,United States,37.751,-97.822,
+193,other,FALSE,92.90399981,25|2|88,,,telecom,"D-Link DWL-624+ or DWL-2000AP, or TRENDnet TEW-432BRP WAP",89,,,proprietary,0,22,"Telecom Italia San Marino S.p.A. is the International
+Telecomunications Company of the Republic of San Marino,
+entrusted to carry all the International services
+(Voice, Data and Added Value Services) of the Rupublic,
+where TISM is located and registered.",,,Rimini,Italy,44.0633,12.5808,
+194,ICS,FALSE,67.08599997,25|2|88,,,unknown,AVtech Room Alert 26W environmental monitor,98,,,ICS,1,20,"Com Net, Inc.",,,Lima,United States,40.7331,-84.1446,
+195,other,FALSE,83.00899982,1|2|88,,,unknown,BlackBerry 10.3,88,,,proprietary,0,23,,,,Kilkenny,Ireland,52.6542,-7.2522,
+196,unknown,FALSE,159.6409998,0|0|0,,,telecom,Linux 3.11 - 4.1,92,,,Linux,2,30,Com4 AS,,,Drammen,Norway,59.7425,10.2117,
+197,ICS,FALSE,67.32200003,25|2|88,,,telecom,,,,,unknown,0,23,Midcontinent Communications,,,Grand Forks,United States,47.8719,-97.1503,
+198,unknown,FALSE,89.17999983,6671|16|41813,,,telecom,,,,,unknown,0,22,"Eircom
+IP network infrastructure (ADSL Pool Addresses)
+Ireland
+** Send spam/hack/virus complaints to abuse@eircom.net
+** Complaints sent to the contacts listed below will not be
+** acted on!",,,Balbriggan,Ireland,53.6128,-6.1819,
+199,other,FALSE,144.529,25|2|88,,,telecom,"GlobespanVirata GS8100, Huawei MT880, or Solwise SAR 100 ADSL modem",92,,,proprietary,1,30,Bell Canada,,,Calgary,Canada,51.0833,-114.0833,
+200,unknown,FALSE,93.66299987,3318|2|50,,,telecom,Microsoft Windows Server 2008 R2 SP1,100,,,Windows,0,21,LNNAUB656 Aubervilliers Bloc 2,,,,France,48.8582,2.3387,
+201,ICS,FALSE,98.80699992,25|2|88,,,unknown,Rockwell Automation 1769-L23E-QB1 PLC,92,,,proprietary,1,27,,,,Fagnano Olona,Italy,45.6698,8.8599,
+202,other,FALSE,86.80199981,25|2|88,,,edu,Avaya 4000- or 5000-series Ethernet Routing switch,100,,,proprietary,0,19,"CKPOLSL - Silesian University of Technology, Computer Centre",,,,Poland,52.2394,21.0362,
+203,other,FALSE,116.302,0|0|0,,,telecom,Sony Bravia HX720-series TV,95,,,proprietary,2,21,"Orange Romania
+Mobile Internet",,,,Romania,46,25,
+204,unknown,FALSE,61.99600005,25|2|88,,,unknown,,,,,unknown,1,22,Service Provider Corporation,,,,United States,37.751,-97.822,
+205,unknown,FALSE,65.49099994,0|0|0,,,unknown,,,,,unknown,0,24,Service Provider Corporation,,,Atlanta,United States,33.749,-84.388,
+206,unknown,FALSE,62.04100013,25|2|88,,,unknown,,,,,unknown,1,22,Service Provider Corporation,,,,United States,37.751,-97.822,
+207,unknown,FALSE,62.36400008,25|2|88,,,unknown,,,,,unknown,1,24,Service Provider Corporation,,,,United States,37.751,-97.822,
+208,unknown,FALSE,62.81200004,58484|2|88,,,unknown,,,,,unknown,1,22,Service Provider Corporation,,,,United States,37.751,-97.822,
+209,unknown,FALSE,79.08700013,25|2|88,,,unknown,,,,,unknown,1,22,Service Provider Corporation,,,,United States,37.751,-97.822,
+210,unknown,FALSE,76.25900006,25|2|88,,,unknown,,,,,unknown,2,22,Service Provider Corporation,,,,United States,37.751,-97.822,
+211,unknown,FALSE,62.40799999,25|2|88,,,unknown,,,,,unknown,0,23,Service Provider Corporation,,,,United States,37.751,-97.822,
+212,unknown,FALSE,75.30799985,25|2|88,,,unknown,,,,,unknown,1,22,Service Provider Corporation,,,,United States,37.751,-97.822,
+213,unknown,FALSE,62.25900006,25|2|88,,,unknown,,,,,unknown,1,22,Service Provider Corporation,,,,United States,37.751,-97.822,
+214,unknown,FALSE,61.96099997,25|2|88,,,unknown,,,,,unknown,1,22,Service Provider Corporation,,,,United States,37.751,-97.822,
+215,unknown,FALSE,82.27999997,25|2|88,,,unknown,,,,,unknown,1,22,Service Provider Corporation,,,,United States,37.751,-97.822,
+216,unknown,FALSE,62.68000007,0|0|0,,,unknown,,,,,unknown,1,22,Service Provider Corporation,,,,United States,37.751,-97.822,
+217,unknown,FALSE,66.63100004,25|2|88,,,unknown,,,,,unknown,1,29,Service Provider Corporation,,,,United States,37.751,-97.822,
+218,unknown,FALSE,62.63300014,25|2|88,,,unknown,,,,,unknown,1,22,Service Provider Corporation,,,,United States,37.751,-97.822,
+219,other,FALSE,62.05799985,9|0|0,,,unknown,AVM FRITZ!Box FON WLAN 7170 WAP,87,,,proprietary,1,22,Service Provider Corporation,,,,United States,37.751,-97.822,
+220,unknown,FALSE,71.6099999,25|2|88,,,unknown,Linux 2.6.22 (Debian 4.0),87,,,Linux,1,23,Service Provider Corporation,,,,United States,37.751,-97.822,
+221,unknown,FALSE,62.98399997,12|0|0,,,unknown,,,,,unknown,1,30,Service Provider Corporation,,,,United States,37.751,-97.822,
+222,unknown,FALSE,62.20000005,25|2|88,,,unknown,,,,,unknown,1,22,Service Provider Corporation,,,,United States,37.751,-97.822,
+223,unknown,FALSE,62.05999994,25|2|88,,,unknown,,,,,unknown,1,25,Service Provider Corporation,,,,United States,37.751,-97.822,
+224,unknown,FALSE,63.50699997,4|0|0,,,unknown,,,,,unknown,1,23,Service Provider Corporation,,,,United States,37.751,-97.822,
+225,unknown,FALSE,62.01199985,25|2|88,,,unknown,,,,,unknown,1,22,Service Provider Corporation,,,,United States,37.751,-97.822,
+226,unknown,FALSE,62.11999989,25|2|88,,,unknown,,,,,unknown,1,21,Service Provider Corporation,,,,United States,37.751,-97.822,
+227,unknown,FALSE,62.22200012,25|2|88,,,unknown,,,,,unknown,1,27,Service Provider Corporation,,,,United States,37.751,-97.822,
+228,unknown,FALSE,62.2809999,25|2|88,,,unknown,,,,,unknown,1,23,Service Provider Corporation,,,,United States,37.751,-97.822,
+229,unknown,FALSE,62.10000014,25|2|88,,,unknown,,,,,unknown,1,22,Service Provider Corporation,,,,United States,37.751,-97.822,
+230,unknown,FALSE,81.79900002,8704|8770|4648,,,unknown,,,,,unknown,0,21,Service Provider Corporation,,,,United States,37.751,-97.822,
+231,unknown,FALSE,60.45000005,25|2|88,,,unknown,,,,,unknown,1,22,Service Provider Corporation,,,,United States,37.751,-97.822,
+232,unknown,FALSE,62.40700006,25|2|88,,,unknown,,,,,unknown,1,30,Service Provider Corporation,,,,United States,37.751,-97.822,
+233,other,FALSE,89.1730001,0|0|0,,,telecom,MikroTik RouterOS 6.36,91,,,proprietary,0,22,TELEFNICA BRASIL S.A,,,Mogi das Cruzes,Brazil,-23.5258,-46.1923,
+234,other,FALSE,66.73300004,25|2|88,,,telecom,Grandstream GXV3275 video phone,95,,,proprietary,0,23,"TOT Public Company Limited
+Zone A, 6th Floor, Building 1
+Swicthing and Network Interconnection System Standard Sector
+TOT Public Company
+89/2 Moo 3 Chaengwatthana Road",,,Songkhla,Thailand,7.1,100.4167,
+235,other,FALSE,97.71000004,24|2|88,,,telecom,Grandstream GXV3275 video phone,88,,,proprietary,0,27,PROVEDOR REDESUL LTDA,,,Carlos Barbosa,Brazil,-29.3467,-51.5495,
+236,ICS,FALSE,99.99699998,25|2|88,,,telecom,Linux 3.2 - 3.8,100,,,Linux,1,30,COMENERSOL-112/24,,,Novelda,Spain,38.3848,-0.7677,
+237,ICS,FALSE,111.336,25|2|88,,,telecom,,,,,unknown,0,30,TURKCELL INTERNET,,,,Turkey,41.0214,28.9948,
+238,ICS,FALSE,112.4760001,25|2|88,,,telecom,,,,,unknown,0,25,TURKCELL INTERNET,,,,Turkey,41.0214,28.9948,
+239,unknown,FALSE,69.0999999,0|0|0,,,unknown,Linux 3.2 - 3.8,100,,,Linux,0,22,Zona Franca Astro Nicaragua,,,,Nicaragua,13,-85,
+240,ICS,FALSE,108.0209999,25|2|88,,,telecom,,,,,unknown,0,22,TURKCELL INTERNET,,,,Turkey,41.0214,28.9948,
+241,other,FALSE,108.3080001,25|2|88,,,telecom,Linksys WAP54G WAP,92,,,proprietary,0,27,TURKCELL INTERNET,,,,Turkey,41.0214,28.9948,
+242,unknown,FALSE,107.4530001,0|0|0,,,unknown,Linux 3.8,87,,,Linux,2,23,Red de servicios IP,,,,Spain,40.4172,-3.684,
+243,other,FALSE,151.5509999,0|0|0,,,unknown,MikroTik RouterOS 6.36,92,,,proprietary,0,24,,,,Cuneo,Italy,44.3907,7.5483,
+244,unknown,FALSE,88.8360002,0|0|88,,,telecom,,,,,unknown,0,26,LNPUT657 Puteaux Bloc 1,,,,France,48.8582,2.3387,
+245,unknown,FALSE,90.48200011,380|132|34,,,telecom,,,,,unknown,0,22,LNNAUB656 Aubervilliers Bloc 1,,,Sète,France,43.4028,3.6928,
+246,unknown,FALSE,87.84200001,0|0|0,,,telecom,,,,,unknown,0,26,LNNAUB656 Aubervilliers Bloc 2,,,,France,48.8582,2.3387,
+247,ICS,FALSE,176.375,1516|0|1514,,,telecom,Rockwell Automation 1769-L23E-QB1 PLC,92,,,ICS,0,30,LNPUT657 Puteaux Bloc 1,,,,France,48.8582,2.3387,
+248,ICS,FALSE,87.35100007,25|2|88,,,telecom,,,,,unknown,0,26,LNNAUB656 Aubervilliers Bloc 1,,,,France,48.8582,2.3387,
+249,unknown,FALSE,94.07999992,553|751|35,,,telecom,Linux 3.10 - 3.12,95,,,Linux,1,23,LNNAUB656 Aubervilliers Bloc 1,,,,France,48.8582,2.3387,
+250,unknown,FALSE,96.0710001,0|126|88,,,telecom,,,,,unknown,0,22,LNNAUB656 Aubervilliers Bloc 2,,,,France,48.8582,2.3387,
+251,ICS,FALSE,91.36899996,25|2|88,,,telecom,,,,,unknown,0,30,LNSTL658 Saint Lambert bloc 1,,,,France,48.8582,2.3387,
+252,ICS,FALSE,88.33899999,25|2|88,,,telecom,Linux 3.2 - 3.8,100,,,Linux,1,22,LNSTL657 Saint Lambert Bloc 2,,,,France,48.8582,2.3387,
+253,ICS,FALSE,91.99800015,25|2|88,,,telecom,,,,,unknown,0,22,LNPUT658 Puteaux Bloc 1,,,,France,48.8582,2.3387,
+254,unknown,FALSE,88.40699983,25|0|88,,,telecom,Linux 4.0,93,,,Linux,2,24,LNAUB656 Aubervilliers Bloc 1,,,Meaux,France,48.9636,2.8824,
+255,unknown,FALSE,248.1589999,307|65434|65503,,,telecom,,,,,unknown,0,28,LNPUT657 Puteaux Bloc 1,,,,France,48.8582,2.3387,
+256,ICS,FALSE,87.20099998,25|2|88,,,telecom,Belkin OmniView KVM switch or SMA Sunny WebBox solar panel monitor,100,,,ICS,1,22,LNSTL658 Saint Lambert bloc 2,,,,France,48.8582,2.3387,
+257,ICS,FALSE,93.44399977,25|2|88,,,telecom,,,,,unknown,0,30,LNAUB656 Aubervilliers Bloc 1,,,,France,48.8582,2.3387,
+258,unknown,FALSE,92.52199984,338|120|35,,,telecom,,,,,unknown,0,22,LNPUT656 Puteaux Bloc 1,,,,France,48.8582,2.3387,
+259,unknown,FALSE,87.74399996,139|65535|65535,,,telecom,Linux 2.6.9 - 2.6.27,100,,,Linux,2,30,LNPUT657 Puteaux Bloc 2,,,,France,48.8582,2.3387,
+260,other,FALSE,94.64199996,25|2|88,,,industry,Canon imageRUNNER C2380 or C2880i or Xerox Phaser 8860MFP printer,94,,,proprietary,0,22,"(0020350A) Wastewater machines, Samara",,,Moscow,Russia,55.752,37.615,
+261,other,FALSE,95.1099999,25|2|88,,,unknown,Canon imageRUNNER C2380 or C2880i or Xerox Phaser 8860MFP printer,94,,,proprietary,0,22,"(0020350A) Wastewater machines, Samara",,,Moscow,Russia,55.752,37.615,
+262,other,FALSE,95.55300021,25|2|88,,,unknown,Canon imageRUNNER C2380 or C2880i or Xerox Phaser 8860MFP printer,94,,,proprietary,0,30,"(0020350A) Wastewater machines, Samara",,,Moscow,Russia,55.752,37.615,
+263,other,FALSE,94.671,25|2|88,,,unknown,Canon imageRUNNER C2380 or C2880i or Xerox Phaser 8860MFP printer,94,,,proprietary,0,22,"(0020350A) Wastewater machines, Samara",,,Moscow,Russia,55.752,37.615,
+264,other,FALSE,95.49300003,25|2|88,,,unknown,Canon imageRUNNER C2380 or C2880i or Xerox Phaser 8860MFP printer,94,,,proprietary,0,30,"(0020350A) Wastewater machines, Samara",,,Moscow,Russia,55.752,37.615,
+265,other,FALSE,69.27399993,25|2|88,,,telecom,Canon imageRUNNER C2380 or C2880i or Xerox Phaser 8860MFP printer,90,,,proprietary,3,30,Saskatchewan Telecommunications,,,Weyburn,Canada,49.6668,-103.8511,
+266,ICS,FALSE,67.0539999,25|2|88,,,telecom,,,,,unknown,0,22,TELUS Communications Inc.,,,Welling,Canada,49.4667,-112.7852,
+267,ICS,FALSE,103.1399999,25|2|88,,,telecom,,,,,unknown,0,22,Cellucar subscribers for GGSN RH & YV,,,,Israel,31.5,34.75,
+268,ICS,FALSE,87.96700001,25|2|88,,,telecom,,,,,unknown,0,22,"Telefonica de Espana SAU (NCC#2007050901)
+Red de servicios IP
+Spain",,,Cordova,Spain,37.8916,-4.7727,
+269,unknown,FALSE,95.52399993,16428|5546|34176,,,telecom,,,,,unknown,0,25,"Static Corporate Internet Customer
+PT Comunicacoes S.A.",,,Lisbon,Portugal,38.7167,-9.1333,
+270,ICS,FALSE,100.6589999,25|2|88,,,unknown,Rockwell Automation 1769-L23E-QB1 PLC,86,,,ICS,1,22,,,,Pozzallo,Italy,36.7303,14.8467,
+271,ICS,FALSE,81.08500004,25|2|88,,,unknown,Linux 2.6.32,92,,,Linux,0,22,COMMERCE,,,Vitry-sur-Seine,France,48.7872,2.4033,
+272,ICS,FALSE,102.543,25|2|88,,,telecom,,,,,unknown,0,22,"Telefonica De Espana SAU (NCC#2000013794)
+Red de servicios IP
+Spain",,,Albolote,Spain,37.2309,-3.6551,
+273,ICS,FALSE,89.65100002,513|65387|65507,,,telecom,Belkin OmniView KVM switch or SMA Sunny WebBox solar panel monitor,98,,,ICS,2,22,LNAUB656 Aubervilliers Bloc 1,,,,France,48.8582,2.3387,
+274,other,FALSE,99.98099995,1223|198|409,,,telecom,Blue Coat PacketShaper appliance,85,,,proprietary,1,21,LNAUB658 Aubervilliers Bloc 1,,,,France,48.8582,2.3387,
+275,ICS,FALSE,89.26900005,25|2|88,,,telecom,Belkin OmniView KVM switch or SMA Sunny WebBox solar panel monitor,99,,,ICS,1,22,LNPUT656 Puteaux Bloc 1,,,Morsang-sur-Orge,France,48.6618,2.3534,
+276,ICS,FALSE,86.5630002,24|2|88,,,telecom,Belkin OmniView KVM switch or SMA Sunny WebBox solar panel monitor,100,,,ICS,0,22,LNMSO656 Montsouris Bloc 2,,,Limeil-Brevannes,France,48.7448,2.487,
+277,unknown,FALSE,89.10299993,25|8|0,,,telecom,,,,,unknown,0,22,LNMSO656 Montsouris Bloc 1,,,"La Cadiere-d""Azur",France,43.1954,5.7561,
+278,honeypot,FALSE,8.014999866,25|2|88,,,unknown,,,,,unknown,0,27,Stel Core Network,,,Ferrara,Italy,44.8333,11.5833,
+279,other,FALSE,92.227,2027|215|11,,,telecom,Motorola RFS 6000 wireless switch,89,,,proprietary,4,27,LNMSO656 Montsouris Bloc 1,,,,France,48.8582,2.3387,
+280,ICS,FALSE,88.82199979,25|2|88,,,telecom,Linux 2.6.32 - 2.6.33,94,,,Linux,2,26,LNSTL658 Saint Lambert bloc 2,,,,France,48.8582,2.3387,
+281,other,FALSE,87.83599997,25|2|88,,,unknown,Canon imageRUNNER C2380 or C2880i or Xerox Phaser 8860MFP printer,95,,,proprietary,1,25,Stel Core Network,,,Ferrara,Italy,44.8333,11.5833,
+282,unknown,FALSE,91.73100019,25|2|88,,,unknown,,,,,unknown,0,30,Stel Core Network,,,Ferrara,Italy,44.8333,11.5833,
+283,unknown,FALSE,93.29100013,25|2|88,,,unknown,,,,,unknown,0,22,Stel Core Network,,,Ferrara,Italy,44.8333,11.5833,
+284,unknown,FALSE,107.3529999,25|2|88,,,unknown,,,,,unknown,0,30,'C.C.C.' CANTIERI COSTRUZIONI CEMENTO S.P.A.,,,San Donà di Piave,Italy,45.6302,12.5681,
+285,unknown,FALSE,117.053,25|2|88,,,unknown,,,,,unknown,0,30,Stel Core Network,,,Ferrara,Italy,44.8333,11.5833,
+286,unknown,FALSE,98.26600003,0|0|0,,,telecom,,,,,unknown,0,26,Aptus Broadband Carlow,,,Carlow,Ireland,52.8408,-6.9261,
+287,unknown,FALSE,80.13400006,25|2|88,,,unknown,Linux 2.6.32,93,,,Linux,0,24,F7285-00001-001,,,Paris,France,48.8628,2.3292,
+288,unknown,FALSE,89.46199989,25|2|88,,,unknown,,,,,unknown,0,30,,,,Turin,Italy,45.0705,7.6868,
+289,ICS,FALSE,104.7409999,25|2|88,,,telecom,Linux 2.6.16 - 2.6.28,95,,,Linux,0,26,TURKCELL INTERNET,,,,Turkey,41.0214,28.9948,
+290,unknown,FALSE,103.888,25|2|88,,,telecom,Linux 2.6.16 - 2.6.28,99,,,Linux,3,22,TURKCELL INTERNET,,,,Turkey,41.0214,28.9948,
+291,other,FALSE,112.7249999,25|2|88,,,unknown,AVM FRITZ!Box FON WLAN 7170 WAP,97,,,proprietary,2,22,,,,,Turkey,41.0214,28.9948,
+292,unknown,FALSE,110.6430001,25|2|88,,,telecom,Linux 2.4.20,95,,,Linux,0,26,TURKCELL INTERNET,,,,Turkey,41.0214,28.9948,
+293,other,FALSE,104.6790001,25|2|88,,,telecom,Canon imageRUNNER C2380 or C2880i or Xerox Phaser 8860MFP printer,92,,,proprietary,0,27,TURKCELL INTERNET,,,,Turkey,41.0214,28.9948,
+294,ICS,FALSE,88.49500012,2020|12|29,,,telecom,AVtech Room Alert 26W environmental monitor,86,,,ICS,1,22,"PT Prime - Solucoes Empresariais
+Corporate Internet Service Provider
+Static Point to Point Customer  Links",,,,Portugal,38.7139,-9.1394,
+295,other,FALSE,89.5389998,13824|1064|4649,,,telecom,OpenWrt Kamikaze 8.09.1 (Linux 2.4.35.4),92,,,proprietary,5,23,"MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.
+Corporate Internet Service Provider
+Static Point to Point Customer Links",,,Cacem,Portugal,38.767,-9.2979,
+296,unknown,FALSE,90.68199992,2459|64206|10,,,telecom,,,,,unknown,0,23,LNMSO655 Montsouris Bloc 2,,,,France,48.8582,2.3387,
+297,ICS,FALSE,89.82400012,25|2|88,,,telecom,,,,,unknown,0,22,LNMSO655 Montsouris Bloc 2,,,,France,48.8582,2.3387,
+298,unknown,FALSE,89.97099996,637|156|2241,,,telecom,,,,,unknown,0,30,LNMSO655 Montsouris Bloc 2,,,,France,48.8582,2.3387,
+299,unknown,FALSE,97.14899993,126|0|88,,,telecom,,,,,unknown,0,30,LNAUB656 Aubervilliers Bloc 2,,,,France,48.8582,2.3387,
+300,ICS,FALSE,87.671,25|2|88,,,telecom,,,,,unknown,0,22,LNMSO655 Montsouris Bloc 2,,,,France,48.8582,2.3387,
+301,ICS,FALSE,100.26,25|2|88,,,telecom,,,,,unknown,0,23,LNNLY657 Neuilly Bloc 2,,,Saint-Sauveur-de-Montagut,France,44.8214,4.5799,
+302,ICS,FALSE,87.40999985,0|0|0,,,telecom,Belkin OmniView KVM switch or SMA Sunny WebBox solar panel monitor,98,,,ICS,2,23,LNMSO655 Montsouris Bloc 1,,,,France,48.8582,2.3387,
+303,ICS,FALSE,88.55200005,154|10|65425,,,telecom,Belkin OmniView KVM switch or SMA Sunny WebBox solar panel monitor,100,,,ICS,0,20,LNAUB658 Aubervilliers Bloc 2,,,Le Bourget,France,48.9341,2.4358,
+304,ICS,FALSE,91.05099988,151|27|179,,,telecom,Belkin OmniView KVM switch or SMA Sunny WebBox solar panel monitor,98,,,ICS,1,30,LNMSO655 Montsouris Bloc 1,,,Bourges,France,47.0833,2.4,
+305,unknown,FALSE,85.5309999,0|0|0,,,telecom,,,,,unknown,0,30,LNSTL658 Saint Lambert bloc 1,,,,France,48.8582,2.3387,
+306,unknown,FALSE,90.5539999,404|31|77,,,telecom,,,,,unknown,0,23,LNNLY657 Neuilly Bloc 2,,,,France,48.8582,2.3387,
+307,unknown,FALSE,83.58299994,1024|0|4,Orange S.A.,Orange S.A.,telecom,,,,vpn,unknown,0,22,LNMSO658 Montsouris Bloc 1,wanadoo.fr,lmontsouris-658-1-54-27.w80-13.abo.wanadoo.fr,,France,48.8582,2.3387,"CVE-2020-1934,CVE-2021-34798,CVE-2020-35452,CVE-2022-29404,CVE-2022-22721,CVE-2022-22720,CVE-2022-28330,CVE-2020-11993,CVE-2020-13938,CVE-2021-44224,CVE-2021-33193,CVE-2006-20001,CVE-2019-10092,CVE-2019-17567,CVE-2022-31813,CVE-2019-10098,CVE-2022-37436,CVE-2021-39275,CVE-2021-40438,CVE-2021-36160,CVE-2022-23943,CVE-2020-1927,CVE-2022-36760,CVE-2023-25690,CVE-2020-9490,CVE-2020-11984,CVE-2021-44790,CVE-2021-26690,CVE-2021-26691,CVE-2022-26377,CVE-2022-28614,CVE-2019-10081,CVE-2019-9517,CVE-2019-10082,CVE-2022-22719,CVE-2022-28615,CVE-2022-30556,CVE-2023-27522"
+308,ICS,FALSE,88.15999985,25|2|88,,,telecom,Linux 3.2 - 3.8,100,,,Linux,0,23,LNPUT658 Puteaux Bloc 1,,,,France,48.8582,2.3387,
+309,unknown,FALSE,127.6329999,0|0|0,,,telecom,Linux 3.10 - 3.12,95,,,Linux,2,26,LNMSO657 Montsouris Bloc 1,,,,France,48.8582,2.3387,
+310,unknown,FALSE,90.85100007,1514|238|16,Orange S.A.,Orange S.A.,telecom,,,,,unknown,0,22,LNPUT658 Puteaux Bloc 2,wanadoo.fr,lputeaux-658-1-35-155.w80-13.abo.wanadoo.fr,,France,48.8582,2.3387,
+311,ICS,FALSE,85.57299995,739|593|65392,Orange S.A.,Orange S.A.,telecom,Linux 2.6.32 - 2.6.33,100,,ics,Linux,1,23,LNPUT657 Puteaux Bloc 2,wanadoo.fr,lputeaux-657-1-70-51.w80-13.abo.wanadoo.fr,,France,48.8582,2.3387,
+312,ICS,FALSE,88.84700012,1386|62|4,Orange S.A.,LNAUB658 Aubervilliers,telecom,Belkin OmniView KVM switch or SMA Sunny WebBox solar panel monitor,100,,ics,ICS,2,30,LNAUB659 Aubervilliers bloc 2,wanadoo.fr,laubervilliers-659-1-47-57.w80-13.abo.wanadoo.fr,,France,48.8582,2.3387,
+313,ICS,FALSE,90.25900006,789|85|11,Orange S.A.,LNAUB658 Aubervilliers,telecom,,,,ics,unknown,0,26,LNAUB659 Aubervilliers bloc 1,wanadoo.fr,laubervilliers-659-1-50-146.w80-13.abo.wanadoo.fr,,France,48.8582,2.3387,
+314,ICS,FALSE,88.67299986,64853|219|88,Orange S.A.,Orange S.A.,telecom,,,,"ics,self-signed",unknown,0,27,LNSTL658 Saint Lambert bloc 2,wanadoo.fr,lstlambert-658-1-214-165.w80-13.abo.wanadoo.fr,,France,48.8582,2.3387,
+315,ICS,FALSE,86.80500007,13096|3|16764,Orange S.A.,LNPUT657 Puteaux,telecom,Microsoft Windows Server 2008 or 2008 Beta 3,100,Windows,ics,Windows,1,22,LNSTL657 Saint Lambert Bloc 1,wanadoo.fr,laubervilliers-656-1-25-46.w80-13.abo.wanadoo.fr,,France,48.8582,2.3387,"CVE-2010-2730,CVE-2010-3972,CVE-2010-1899"
+316,ICS,FALSE,89.88000011,25|2|88,Orange S.A.,LNPUT657 Puteaux,telecom,,,,,unknown,0,27,LNSTL657 Saint Lambert Bloc 1,wanadoo.fr,laubervilliers-656-1-40-253.w80-13.abo.wanadoo.fr,,France,48.8582,2.3387,
+317,ICS,FALSE,87.44599986,65500|216|998,Orange S.A.,Orange S.A.,telecom,,,,ics,unknown,0,27,LNPUT658 Puteaux Bloc 1,wanadoo.fr,lputeaux-658-1-110-187.w80-13.abo.wanadoo.fr,Champien,France,49.6951,2.8614,
+318,ICS,FALSE,86.72900009,25|2|88,Orange S.A.,LNPUT657 Puteaux,telecom,Belkin OmniView KVM switch or SMA Sunny WebBox solar panel monitor,99,,ics,ICS,1,27,LNSTL657 Saint Lambert Bloc 1,wanadoo.fr,laubervilliers-656-1-136-233.w80-14.abo.wanadoo.fr,,France,48.8582,2.3387,
+319,ICS,FALSE,85.96199989,25|2|88,,,telecom,,,,,unknown,0,27,LNSTL656 St Lambert Bloc 2,,,,France,48.8582,2.3387,
+320,ICS,FALSE,92.55100012,25|2|88,Orange S.A.,LNPUT657 Puteaux,telecom,,,,ics,unknown,0,27,LNSTL657 Saint Lambert Bloc 1,wanadoo.fr,laubervilliers-656-1-140-95.w80-14.abo.wanadoo.fr,,France,48.8582,2.3387,
+321,ICS,FALSE,91.11999989,332|65431|65504,Orange S.A.,Orange S.A.,telecom,,,,ics,unknown,0,27,LNPUT658 Puteaux Bloc 1,wanadoo.fr,lputeaux-658-1-154-249.w80-14.abo.wanadoo.fr,,France,48.8582,2.3387,
+322,ICS,FALSE,90.10100007,24|2|88,Orange S.A.,LNAUB657 Aubervilliers,telecom,,,,ics,unknown,0,27,LNSTL656 St Lambert Bloc 1,wanadoo.fr,laubervilliers-657-1-78-11.w80-14.abo.wanadoo.fr,,France,48.8582,2.3387,
+323,ICS,FALSE,92.52099991,29687|411|65446,Orange S.A.,LNAUB657 Aubervilliers,telecom,,,,ics,unknown,0,27,LNSTL656 St Lambert Bloc 1,wanadoo.fr,laubervilliers-657-1-146-176.w80-14.abo.wanadoo.fr,Champagnier,France,45.1129,5.7265,
+324,ICS,FALSE,89.95900011,1|1|0,Orange S.A.,LNPUT658 Puteaux,telecom,,,,ics,unknown,0,30,LNMSO656 Montsouris Bloc 1,wanadoo.fr,lmontsouris-656-1-60-130.w80-15.abo.wanadoo.fr,,France,48.8582,2.3387,
+325,ICS,FALSE,89.954,25|2|88,,,telecom,,,,,unknown,0,27,LNMSO656 Montsouris Bloc 1,,,,France,48.8582,2.3387,
+326,ambiguous,FALSE,83.52399993,5020|4980|494,,,telecom,Linux 2.6.32 - 2.6.33,98,,,Linux,1,30,LNPUT657 Puteaux Bloc 2,,,,France,48.8582,2.3387,
+327,ICS,FALSE,87.60100007,267|173|1061,Orange S.A.,LNAUB657 Aubervilliers,telecom,,,,ics,unknown,0,26,LNMSO657 Montsouris Bloc 1,wanadoo.fr,lmontsouris-657-1-103-8.w80-15.abo.wanadoo.fr,,France,48.8582,2.3387,
+328,ICS,FALSE,86.71899986,25|2|72,Orange S.A.,LNPUT658 Puteaux,telecom,Microsoft Windows Server 2008 or 2008 Beta 3,99,,"ics,vpn",Windows,1,26,LNMSO656 Montsouris Bloc 1,wanadoo.fr,lmontsouris-656-1-236-243.w80-15.abo.wanadoo.fr,Antony,France,48.75,2.3,
+329,other,FALSE,87.64199996,24|2|88,,,telecom,Apple AirPort Extreme WAP,92,,,proprietary,2,26,LNAUB658 Aubervilliers Bloc 1,,,,France,48.8582,2.3387,
+330,other,FALSE,86.64100003,14|61|15,,,telecom,DYMO LabelManager Wireless PNP printer,86,,,proprietary,2,27,LNAUB658 Aubervilliers Bloc 1,,,,France,48.8582,2.3387,
+331,ICS,FALSE,87.40200019,419|158|37,,,telecom,Belkin OmniView KVM switch or SMA Sunny WebBox solar panel monitor,98,,,ICS,1,30,LNMSO656 Montsouris Bloc 1,,,,France,48.8582,2.3387,
+332,ICS,FALSE,87.3920002,154|147|407,,,telecom,Belkin OmniView KVM switch or SMA Sunny WebBox solar panel monitor,99,,,ICS,1,30,LNMSO656 Montsouris Bloc 1,,,,France,48.8582,2.3387,
+333,ICS,FALSE,97.62400007,25|2|88,,,telecom,Linux 3.2 - 3.8,92,,,Linux,2,30,LNMSO656 Montsouris Bloc 1,,,,France,48.8582,2.3387,
+334,ICS,FALSE,108.5880001,25|2|88,,,unknown,,,,,unknown,0,21,Red de servicios IP,,,Sant Just Desvern,Spain,41.386,2.0757,
+335,unknown,FALSE,87.36100006,8|40|0,,,telecom,,,,,unknown,1,30,OBS Customer,,,,France,48.8582,2.3387,
+336,other,FALSE,94.75699997,36|229|5013,,,telecom,Canon imageRUNNER C2380 or C2880i or Xerox Phaser 8860MFP printer,97,,,proprietary,1,25,"Telia Lietuva, AB",,,Vilnius,Republic of Lithuania,54.6833,25.3167,
+337,unknown,FALSE,88.796,26|65472|19,,,telecom,,,,,unknown,0,30,LNAUB656 Aubervilliers Bloc 2,,,,France,48.8582,2.3387,
+338,other,FALSE,88.10800004,0|0|0,,,telecom,Canon imageRUNNER C2380 or C2880i or Xerox Phaser 8860MFP printer,100,,,proprietary,0,30,LNAUB656 Aubervilliers Bloc 2,,,Levallois-Perret,France,48.8939,2.2886,
+339,ICS,FALSE,89.52100015,25|2|88,,,telecom,,,,,unknown,0,22,LNMSO657 Montsouris Bloc 2,,,,France,48.8582,2.3387,
+340,unknown,FALSE,90.2420001,438|64038|52953,,,telecom,,,,,unknown,0,22,LNMSO657 Montsouris Bloc 1,,,Cannes,France,43.5513,7.0128,
+341,ICS,FALSE,92.04500008,25|2|88,,,telecom,,,,,unknown,2,22,LNNAUB656 Aubervilliers Bloc 1,,,,France,48.8582,2.3387,
+342,unknown,FALSE,89.69099998,0|0|0,,,telecom,,,,,unknown,0,22,LNNAUB656 Aubervilliers Bloc 2,,,,France,48.8582,2.3387,
+343,ICS,FALSE,85.25900006,25|2|88,,,telecom,,,,,unknown,0,29,LNMSO656 Montsouris Bloc 1,,,,France,48.8582,2.3387,
+344,other,FALSE,88.11399984,0|65535|0,,,telecom,Apple AirPort Extreme WAP,91,,,proprietary,0,30,LNMSO656 Montsouris Bloc 2,,,,France,48.8582,2.3387,
+345,unknown,FALSE,88.64199996,25|2|88,,,telecom,Linux 3.11 - 4.1,100,,,Linux,0,23,LNPUT656 Puteaux Bloc 1,,,,France,48.8582,2.3387,
+346,other,FALSE,89.58699989,0|0|0,,,telecom,Brother MFC-J6510DW printer,88,,,proprietary,1,26,LNAUB656 Aubervilliers,,,Fresnes,France,48.7557,2.3224,
+347,unknown,FALSE,108.4560001,5632|837|4649,,,telecom,Linux 3.11 - 4.1,89,,,Linux,1,28,LNPUT656 Puteaux Bloc 1,,,,France,48.8582,2.3387,
+348,ICS,FALSE,96.23600006,25|2|88,,,telecom,,,,,unknown,0,21,"TELENOVELDA, Infraestructure Access Network",,,Novelda,Spain,38.3848,-0.7677,
+349,other,FALSE,99.977,25|2|88,,,telecom,Apple AirPort Extreme WAP,92,,,proprietary,1,27,"TELENOVELDA, Infraestructure Access Network",,,Novelda,Spain,38.3848,-0.7677,
+350,unknown,FALSE,93.64499998,8704|837|4649,,,unknown,,,,,unknown,0,30,"LA VERRERIE
+83136
+NEOULES",,,,France,48.8582,2.3387,
+351,unknown,FALSE,92.82999992,25|2|88,,,unknown,Linux 2.6.32,86,,,Linux,0,21,,,,Mindszent,Hungary,46.5333,20.2,
+352,ICS,FALSE,108.3759999,25|2|88,,,telecom,Linux 3.2,92,,,Linux,1,25,SzemerNet Kft.,,,,Hungary,47.4925,19.0514,
+353,ICS,FALSE,93.05200005,25|2|88,,,telecom,,,,,unknown,0,24,POLESINE ACQUE public subnet,,,Mestrino,Italy,45.4414,11.7593,
+354,ICS,FALSE,88.85599995,25|2|88,,,telecom,Linux 3.3,92,,,Linux,1,20,LA Wireless Network,,,Chignolo Po,Italy,45.1482,9.4816,
+355,ICS,FALSE,91.29099989,25|2|88,,,telecom,,,,,unknown,0,23,"Infraestructura Red y Servicios IP
+Comunitel Global S.A.",,,Elche,Spain,38.2622,-0.7011,
+356,unknown,FALSE,93.97399998,36490|18199|56589,,,telecom,Microsoft Windows XP Home SP1 (French),91,,,Windows,0,30,Comuni Riuniti XL s.r.l. - PPPoE customers and they services -,,,Bioglio,Italy,45.6167,8.1333,
+357,other,FALSE,55.64299989,2072|32768|32,,,telecom,Motorola SURFboard SB5100i cable modem,93,,,proprietary,0,21,"CHTD, Chunghwa Telecom Co.,Ltd.
+Data-Bldg.6F, No.21, Sec.1, Hsin-Yi Rd.
+Taipei Taiwan 100",,,Taipei,Taiwan,25.0478,121.5318,
+358,unknown,FALSE,270.0799999,0|0|0,,,unknown,,,,,unknown,7,30,Iceberk,,,,Turkey,41.0214,28.9948,
+359,ICS,FALSE,103.1819999,25|2|88,,,telecom,FreeBSD 6.2-RELEASE,91,,,Unix,0,30,FREE TECHNOLOGIES EXCOM SL,,,Quintanar de la Orden,Spain,39.5937,-3.0417,
+360,unknown,FALSE,82.24500012,40960|18043|88,,,unknown,,,,,unknown,0,23,"SC VIO-NET SRL
+17A,M.A.SAGUNA
+Buzias,Timis",,,,Romania,46,25,
+361,ICS,FALSE,78.60899997,25|2|88,,,telecom,,,,,unknown,0,23,Bell Canada,,,Calgary,Canada,51.1467,-114.3133,
+362,ICS,FALSE,91.03999996,25|2|88,,,unknown,Linux 3.2 - 3.8,100,,,Linux,1,23,Select System Infrastructure of Sumperk region,,,Hanusovice,Czechia,50.0833,16.95,
+363,unknown,FALSE,93.3039999,471|2|88,,,telecom,Linux 3.8,88,,,Linux,1,30,LNPUT658 Puteaux Bloc 1,,,,France,48.8582,2.3387,
+364,other,FALSE,103.5949998,25|2|88,,,telecom,ZyXEL ZyWALL 2 firewall or Prestige 660HW-61 ADSL router (ZyNOS 3.62),91,,,proprietary,3,30,LNNAUB656 Aubervilliers Bloc 1,,,Collegien,France,48.8357,2.6736,
+365,other,FALSE,91.12699986,0|2444|0,,,unknown,DYMO LabelManager Wireless PNP printer,93,,,proprietary,0,30,,,,Fadd,Hungary,46.4667,18.8333,
+366,unknown,FALSE,95.76499987,25|2|88,,,unknown,,,,,unknown,0,29,"RUE DE L ANDRAYE
+73220
+EPIERRE",,,,France,48.8582,2.3387,
+367,other,FALSE,102.783,25|2|88,,,industry,Canon imageRUNNER C2380 or C2880i or Xerox Phaser 8860MFP printer,94,,,proprietary,0,29,"(0020350A) Wastewater machines, Samara",,,Moscow,Russia,55.752,37.615,
+368,other,FALSE,103.352,25|2|88,,,industry,Canon imageRUNNER C2380 or C2880i or Xerox Phaser 8860MFP printer,94,,,proprietary,0,30,"(0020350A) Wastewater machines, Samara",,,Moscow,Russia,55.752,37.615,
+369,ICS,FALSE,70.48000002,25|2|88,,,telecom,,,,,unknown,0,30,Agri-Valley Services Corporation,,,Sandusky,United States,43.4201,-82.8577,
+370,unknown,FALSE,67.17499995,0|0|0,,,telecom,,,,,unknown,0,30,"Comcast Cable Communications, LLC",,,Eighty Four,United States,40.1756,-80.1055,
+371,ICS,FALSE,100.0280001,25|2|88,,,telecom,,,,,unknown,0,23,"Telefonica de Espana SAU (NCC#2007050901)
+Red de servicios IP
+Spain",,,El Vendrell,Spain,41.2167,1.5333,
+372,unknown,FALSE,106.0550001,0|0|0,,,telecom,,,,,unknown,0,30,TURKCELL INTERNET,,,,Turkey,41.0214,28.9948,
+373,unknown,FALSE,95.34700012,13107|16929|0,,,unknown,OpenBSD 4.0,88,,,Unix,0,27,,,,Rome,Italy,41.9,12.4833,
+374,ICS,FALSE,89.35299993,25|2|88,,,telecom,Linux 4.0,90,,,Linux,1,30,LNMSO657 Montsouris Bloc 1,,,,France,48.8582,2.3387,
+375,unknown,FALSE,92.74099994,1|1|88,,,telecom,Microsoft Windows Server 2008 R2 SP1,90,,,Windows,2,30,LNMSO656 Montsouris Bloc 1,,,Saint-Pierre-des-Corps,France,47.3862,0.7485,
+376,unknown,FALSE,99.88199997,25|2|88,,,unknown,,,,,unknown,0,21,Red de servicios IP,,,Madrid,Spain,40.4167,-3.6838,
+377,unknown,FALSE,101.527,25|2|88,,,unknown,,,,,unknown,1,28,Red de servicios IP,,,Málaga,Spain,36.7202,-4.4203,
+378,ICS,FALSE,92.29200006,25|2|88,,,telecom,,,,,unknown,0,23,LNMSO657 Montsouris Bloc 1,,,Paris,France,48.8628,2.3292,
+379,honeypot,FALSE,89.2190001,0|0|0,,,telecom,Microsoft Windows 7 Professional,93,,"ics,vpn,self-signed",Windows,3,27,xDSL Single User Pool,,,Trento,Italy,46.0667,11.1333,
+380,ambiguous,FALSE,93.30299997,25|2|88,,,telecom,,,,,unknown,3,28,LNMSO655 Montsouris Bloc 2,,,,France,48.8582,2.3387,
+381,ICS,FALSE,106.102,25|2|88,,,telecom,,,,,unknown,0,30,OBS Customer,,,,France,48.8582,2.3387,
+382,unknown,FALSE,65.25,25|2|88,,,unknown,,,,,unknown,0,22,Static IP Addresses for Internet Services,,,Si Racha,Thailand,13.1667,100.9333,
+383,other,FALSE,89.82200003,25|2|88,,,telecom,Canon imageRUNNER C2380 or C2880i or Xerox Phaser 8860MFP printer,93,,,proprietary,0,28,LNMSO657 Montsouris Bloc 1,,,,France,48.8582,2.3387,
+384,unknown,FALSE,84.81099987,26214|16904|13107,,,unknown,,,,,unknown,0,23,"RTE DE RUOMS
+07150
+VALLON PONT D ARC",,,,France,48.8582,2.3387,
+385,unknown,FALSE,89.93200016,23426|24921|11816,,,telecom,,,,,unknown,0,22,"SiOL d.o.o. (Slovenia Online)
+ISP in Slovenia
+Cigaletova 15
+1000 Ljubljana, Slovenia",,,Ljubljana,Slovenia,46.0511,14.5051,
+386,other,FALSE,98.07500005,25|2|88,,,unknown,Canon imageRUNNER C2380 or C2880i or Xerox Phaser 8860MFP printer,94,,,proprietary,0,25,"(0020350A) Wastewater machines, Samara",,,Moscow,Russia,55.752,37.615,
+387,ICS,FALSE,89.9920001,25|2|88,,,telecom,,,,,unknown,0,22,Spoldzielnia Telekomunikacyjna OST,,,Tyczyn,Poland,49.9621,22.0327,
+388,other,FALSE,97.95799994,595|0|1,,,telecom,Grandstream GXV3275 video phone,91,,,proprietary,1,22,"Telefonica de Espana SAU
+Red de servicios IP
+Spain
+144 - 148: NCC # 2001038578
+149 - 151: NCC # 2001039691",,,Madrid,Spain,40.4167,-3.6838,
+389,ICS,FALSE,101.358,25|2|88,,,telecom,,,,,unknown,0,23,LNAUB658 Aubervilliers Bloc 2,,,,France,48.8582,2.3387,
+390,unknown,FALSE,129.141,25|2|88,,,unknown,,,,,unknown,3,29,,,,Cloyes-sur-le-Loir,France,47.9973,1.2371,
+391,other,FALSE,89.38899994,0|0|0,,,telecom,Linksys WGA54G WAP,89,,,proprietary,3,28,LNSTL656 St Lambert Bloc 2,,,,France,48.8582,2.3387,
+392,ICS,FALSE,120.8380001,25|2|88,,,telecom,,,,,unknown,2,30,LNSTL658 Saint Lambert bloc 1,,,,France,48.8582,2.3387,
+393,other,FALSE,85.16400003,25|2|88,,,telecom,AVM FRITZ!Box FON WLAN 7170 WAP (Linux 2.6),90,,,proprietary,3,30,LNSTL656 St Lambert Bloc 1,,,,France,48.8582,2.3387,
+394,ICS,FALSE,90.50300002,25|2|88,,,telecom,,,,,unknown,2,28,LNAUB659 Aubervilliers bloc 2,,,,France,48.8582,2.3387,
+395,ICS,FALSE,87.63899994,25|2|88,,,telecom,Linux 3.11 - 4.1,100,,,Linux,2,29,LNMSO657 Montsouris Bloc 1,,,Paris,France,48.8628,2.3292,
+396,ICS,FALSE,183.5540001,25|2|88,,,telecom,Rockwell Automation 1769-L23E-QB1 PLC,95,,"ics,vpn,self-signed",ICS,2,27,LNMSO656 Montsouris Bloc 1,,,,France,48.8582,2.3387,
+397,unknown,FALSE,89.227,25|2466|3016,,,telecom,,,,,unknown,0,30,LNMSO657 Montsouris Bloc 1,,,,France,48.8582,2.3387,
+398,unknown,FALSE,86.6400001,0|120|88,,,unknown,OpenBSD 4.0,92,,,Unix,0,29,"Net with internet access, web servers, mail servers...",,,Benifairo de Valldigna,Spain,39.055,-0.3033,
+399,other,FALSE,86.01800013,49789|24554|545,,,unknown,Samsung M2825 printer,85,,,proprietary,1,28,Static IPv4 customers aggregated,,,Ostrava,Czechia,49.7,17.85,
+400,unknown,FALSE,99.46599984,43|5|88,,,telecom,,,,,unknown,1,25,"Telefonica de Espana SAU
+Red de servicios IP
+Spain",,,Valdepenas,Spain,38.7621,-3.3848,
+401,ICS,FALSE,144.7590001,25|2|88,,,telecom,,,,,unknown,2,27,LNAUB659 Aubervilliers Bloc 2,,,,France,48.8582,2.3387,
+402,ICS,FALSE,84.16199994,25|2|88,,,telecom,Linux 3.11 - 4.1,100,,,Linux,0,30,LNPUT657 Puteaux Bloc 1,,,,France,48.8582,2.3387,
+403,unknown,FALSE,86.67299986,1|1|0,,,telecom,FreeBSD 6.2-RELEASE,91,,,Unix,0,30,LNMSO658 Montsouris Bloc 2,,,,France,48.8582,2.3387,
+404,unknown,FALSE,92.55100012,0|49864|88,,,telecom,Linux 3.11 - 4.1,88,,,Linux,0,30,LNAUB656 Aubervilliers Bloc 2,,,,France,48.8582,2.3387,
+405,ICS,FALSE,92.51799989,25|2|88,,,telecom,,,,,unknown,0,27,LNMSO657 Montsouris Bloc 1,,,Rive-de-Gier,France,45.5307,4.6213,
+406,ICS,FALSE,104.0739999,25|2|88,,,telecom,,,,,unknown,0,20,"JSC ""Zap-Sib TransTeleCom""
+Komsomolqskijj Avenue, 1/4
+630004, Novosibirsk",,,Novosibirsk,Russia,55.0411,82.9344,
+407,ICS,FALSE,84.66400003,25|2|88,,,telecom,,,,,unknown,0,30,LNSTL657 Saint Lambert Bloc 1,,,,France,48.8582,2.3387,
+408,ICS,FALSE,86.99399996,25|2|88,,,telecom,,,,,unknown,2,22,LNMSO657 Montsouris Bloc 1,,,,France,48.8582,2.3387,
+409,unknown,FALSE,84.63699985,52429|15564|0,,,telecom,,,,,unknown,0,27,Telenet Operaties N.V.,,,,Belgium,50.85,4.35,
+410,ICS,FALSE,105.891,25|2|88,,,telecom,,,,,unknown,0,30,LNPUT656 Puteaux Bloc 1,,,,France,48.8582,2.3387,
+411,unknown,FALSE,88.22099996,25|2|88,,,unknown,Linux 2.6.32,100,,,Linux,1,30,Zalhostice,,,Rakovnik,Czechia,50.1083,13.7667,
+412,ICS,FALSE,92.58200002,25|2|88,,,telecom,,,,,unknown,0,26,LNMSO655 Montsouris Bloc 2,,,,France,48.8582,2.3387,
+413,other,FALSE,89.98399997,25|2|88,,,unknown,Blue Coat PacketShaper appliance,85,,,proprietary,2,30,,,,Šaľa,Slovakia,48.1513,17.8806,
+414,other,FALSE,101.1289999,0|0|0,,,unknown,Fortinet FortiOS 5.0.6,92,,,proprietary,1,24,Red de servicios IP,,,,Spain,40.4172,-3.684,
+415,ICS,FALSE,55.87699986,25|2|88,,,telecom,,,,VxWorks,ICS,0,22,"CHTD, Chunghwa Telecom Co.,Ltd.
+Data-Bldg.6F, No.21, Sec.1, Hsin-Yi Rd.
+Taipei Taiwan 100",,,Taichung,Taiwan,24.1469,120.6839,
+416,other,FALSE,100.4920001,25|2|88,,,unknown,Motorola SURFboard SB5100i cable modem,93,,,proprietary,0,29,,,,San Lorenzo,Italy,45.9894,12.2719,
+417,ICS,FALSE,89.80999994,25|2|88,,,telecom,Rockwell Automation 1769-L23E-QB1 PLC,88,,,ICS,2,26,LNPUT657 Puteaux Bloc 1,,,,France,48.8582,2.3387,
+418,ICS,FALSE,154.1929998,25|2|88,,,telecom,Rockwell Automation 1769-L23E-QB1 PLC,88,,,ICS,2,30,LNPUT657 Puteaux Bloc 1,,,,France,48.8582,2.3387,
+419,ICS,FALSE,84.67499995,75|500|525,,,telecom,Linux 2.6.32 - 2.6.33,100,,,Linux,2,30,LNAUB658 Aubervilliers Bloc 1,,,,France,48.8582,2.3387,
+420,unknown,FALSE,69.39100003,28718|16905|47186,,,telecom,,,,,unknown,0,22,Compaa Dominicana de Telfonos S. A.,,,,Dominican Republic,19,-70.6667,
+421,ICS,FALSE,92.58399987,25|2|88,,,telecom,Microsoft Windows Server 2008 or 2008 Beta 3,93,,,Windows,1,28,LNAUB658 Aubervilliers Bloc 2,,,,France,48.8582,2.3387,
+422,ICS,FALSE,92.51999998,25|2|88,,,telecom,,,,,unknown,0,30,LNAUB659 Aubervilliers bloc 1,,,,France,48.8582,2.3387,
+423,ICS,FALSE,88.59200001,25|2|88,,,telecom,Linux 2.6.22,90,,,Linux,1,22,LNSTL658 Saint Lambert bloc 1,,,Carrieres-sous-Poissy,France,48.9495,2.0407,
+424,ICS,FALSE,93.95700002,25|2|88,,,telecom,,,,,unknown,0,22,LNAUB659 Aubervilliers Bloc 1,,,,France,48.8582,2.3387,
+425,other,FALSE,91.32500005,0|0|0,,,telecom,Apple AirPort Extreme WAP,91,,,proprietary,2,22,LNAUB659 Aubervilliers Bloc 2,,,,France,48.8582,2.3387,
+426,unknown,FALSE,69.07500005,0|2|88,,,telecom,Microsoft Windows Server 2008 or 2008 Beta 3,89,,,Windows,0,22,"AT&T Services, Inc.",,,Batesville,United States,34.2988,-89.9478,
+427,other,FALSE,87.59300017,0|0|0,,,telecom,Canon imageRUNNER C2380 or C2880i or Xerox Phaser 8860MFP printer,95,,,proprietary,1,21,Solucions Valencianes i Noves Tecnologies SL,,,Madrid,Spain,40.4165,-3.7026,
+428,unknown,FALSE,62.98200011,0|2|88,,,unknown,,,,,unknown,0,28,Easton Utilities Commission,,,Easton,United States,38.7967,-76.0489,
+429,ICS,FALSE,94.31599998,25|2|88,,,telecom,,,,,unknown,0,27,LNMSO659 Montsouris Bloc 2,,,,France,48.8582,2.3387,
+430,unknown,FALSE,92.19700003,0|0|0,,,telecom,,,,,unknown,0,23,LNMSO656 Montsouris Bloc 1,,,Montpellier,France,43.6109,3.8772,
+431,ICS,FALSE,104.05,25|2|88,,,telecom,,,,,unknown,3,27,LNPUT658 Puteaux Bloc 1,,,,France,48.8582,2.3387,
+432,other,FALSE,87.76200008,25|2|88,,,telecom,Canon imageRUNNER C2380 or C2880i or Xerox Phaser 8860MFP printer,100,,,proprietary,0,24,LNAUB658 Aubervilliers Bloc 1,,,,France,48.8582,2.3387,
+433,other,FALSE,89.16700006,25|2|88,,,telecom,ZyXEL ZyWALL USG 20 or USG 50 firewall (ZyNOS 2.21),100,,,proprietary,0,30,LNMSO655 Montsouris Bloc 2,,,Massy,France,48.7269,2.283,
+434,unknown,FALSE,93.74799991,3000|2|0,,,unknown,,,,,unknown,0,22,"AYUNTAMIENTO DE MOSTOLES
+Internet Public Addresses",,,,Spain,40.4172,-3.684,
+435,unknown,FALSE,159.441,5000|2|72,,,unknown,Linux 2.6.18 - 2.6.22,94,,,Linux,0,28,Mobile end user terminals,,,,Norway,59.95,10.75,
+436,ICS,FALSE,93.30300021,25|2|88,,,telecom,,,,,unknown,0,27,LNMSO656 Montsouris Bloc 2,,,,France,48.8582,2.3387,
+437,ICS,FALSE,84.82799983,25|2|88,,,telecom,,,,,unknown,0,21,LNAUB658 Aubervilliers Bloc 1,,,,France,48.8582,2.3387,
+438,ICS,FALSE,103.45,25|2|88,,,telecom,,,,,unknown,2,22,LNPUT656 Puteaux Bloc 1,,,,France,48.8582,2.3387,
+439,unknown,FALSE,93.33100009,13107|16771|13104,,,unknown,,,,,unknown,0,25,Red de servicios IP,,,Barcelona,Spain,41.3984,2.1741,
+440,unknown,FALSE,85.96199989,0|0|0,,,telecom,,,,,unknown,0,30,LNAUB658 Aubervilliers Bloc 2,,,,France,48.8582,2.3387,
+441,ICS,FALSE,92.579,25|2|88,,,telecom,Microsoft Windows Server 2008 or 2008 Beta 3,97,,,Windows,1,28,LNMSO656 Montsouris Bloc 2,,,,France,48.8582,2.3387,
+442,other,FALSE,93.0250001,25|2|88,,,telecom,DD-WRT v23 (Linux 2.4.34),91,,,proprietary,1,26,LNMSO656 Montsouris Bloc 1,,,,France,48.8582,2.3387,
+443,other,FALSE,109.102,0|0|0,,,unknown,Linksys BEFSR41 EtherFast router,87,,,proprietary,0,28,Red de servicios IP,,,El Casar,Spain,38.5309,-5.9251,
+444,ICS,FALSE,94.38999987,25|2|88,,,telecom,,,,,unknown,0,26,"TELE2 ADSL Sweden
+                ####################################
+                In case of improper use, please mail
+                <abuse@swip.net>
+                ####################################",,,Skurup,Sweden,55.4784,13.5019,
+445,unknown,FALSE,91.52100015,123|18|72,,,telecom,,,,,unknown,0,22,WieszowaNET,,,Gliwice,Poland,50.3009,18.6651,
+446,unknown,FALSE,106.6980002,0|0|0,,,telecom,,,,,unknown,2,27,LNPUT656 Puteaux Bloc 1,,,,France,48.8582,2.3387,
+447,other,FALSE,99.41199994,25|2|0,,,telecom,Canon imageRUNNER C2380 or C2880i or Xerox Phaser 8860MFP printer,95,,,proprietary,0,18,"GOLDEN Telecom, Russia, Kemerovo
+/3x, IP pool for xDSL Clients",,,Moscow,Russia,55.7522,37.6156,
+448,unknown,FALSE,301.2,0|0|0,,,telecom,,,,,unknown,0,30,LNMSO656 Montsouris Bloc 2,,,,France,48.8582,2.3387,
+449,unknown,FALSE,63.21300006,0|2|88,,,telecom,,,,,unknown,0,20,AT&T Corp.,,,Cleveland,United States,41.3862,-81.7915,
+450,unknown,FALSE,103.168,25|2|13107,,,telecom,,,,,unknown,0,22,UGMK-Telecom network,,,Kemerovo,Russia,55.3333,86.0833,
+451,other,FALSE,103.516,25|2|24118,,,telecom,Canon imageRUNNER C2380 or C2880i or Xerox Phaser 8860MFP printer,93,,,proprietary,0,22,UGMK-Telecom network,,,Kemerovo,Russia,55.3333,86.0833,
+452,ICS,FALSE,85.06800008,25|2|88,,,telecom,,,,,unknown,0,24,TDC IP Customers,,,Copenhagen,Denmark,55.6352,12.6489,
+453,other,FALSE,97.04999995,25|2|88,,,telecom,Apple AirPort Extreme WAP,91,,,proprietary,1,26,LNMSO656 Montsouris Bloc 1,,,,France,48.8582,2.3387,
+454,ICS,FALSE,86.4920001,25|2|88,,,unknown,Linux 3.2 - 3.8,100,,,Linux,1,30,"""Balticom"" JSC",,,Riga,Latvia,56.95,24.1,
+455,ICS,FALSE,87.87300015,25|2|88,,,telecom,,,,,unknown,0,23,statically assigned space,,,Warsaw,Poland,52.2515,20.9989,
+456,ICS,FALSE,88.53200006,25|2|88,,,telecom,,,,,unknown,0,23,statically assigned space,,,Warsaw,Poland,52.2515,20.9989,
+457,ICS,FALSE,88.61500001,25|2|88,,,telecom,,,,,unknown,0,22,statically assigned space,,,Warsaw,Poland,52.2515,20.9989,
+458,ICS,FALSE,87.83899999,25|2|88,,,telecom,,,,,unknown,0,27,statically assigned space,,,Warsaw,Poland,52.2515,20.9989,
+459,ICS,FALSE,87.47000003,25|2|88,,,telecom,,,,,unknown,0,27,statically assigned space,,,Warsaw,Poland,52.2515,20.9989,
+460,ICS,FALSE,88.48699999,25|2|88,,,telecom,,,,,unknown,0,27,statically assigned space,,,Warsaw,Poland,52.2515,20.9989,
+461,ICS,FALSE,88.28999996,25|2|88,,,telecom,,,,,unknown,0,30,statically assigned space,,,Warsaw,Poland,52.2515,20.9989,
+462,ICS,FALSE,87.773,25|2|88,,,telecom,,,,,unknown,0,27,statically assigned space,,,Warsaw,Poland,52.2515,20.9989,
+463,ICS,FALSE,87.85599995,25|2|88,,,telecom,,,,,unknown,0,27,statically assigned space,,,Warsaw,Poland,52.2515,20.9989,
+464,ICS,FALSE,88.63999987,25|2|88,,,telecom,,,,,unknown,0,30,statically assigned space,,,Warsaw,Poland,52.2515,20.9989,
+465,unknown,FALSE,88.81299996,0|0|0,,,telecom,,,,,unknown,0,26,statically assigned space,,,Warsaw,Poland,52.2515,20.9989,
+466,ICS,FALSE,87.44499993,25|2|88,,,telecom,,,,,unknown,0,30,statically assigned space,,,Warsaw,Poland,52.2515,20.9989,
+467,ICS,FALSE,88.70900011,25|2|88,,,telecom,,,,,unknown,0,30,statically assigned space,,,Warsaw,Poland,52.2515,20.9989,
+468,ICS,FALSE,87.38700008,25|2|88,,,telecom,,,,,unknown,0,30,statically assigned space,,,Warsaw,Poland,52.2515,20.9989,
+469,ICS,FALSE,88.37300015,25|2|88,,,telecom,,,,,unknown,0,27,statically assigned space,,,Warsaw,Poland,52.2515,20.9989,
+470,ICS,FALSE,8.006999969,25|2|88,,,telecom,,,,,unknown,0,27,Aydogan Communication LTD.,,,Nicosia,Cyprus,35.1667,33.3667,
+471,ICS,FALSE,88.73000002,25|2|88,,,telecom,,,,,unknown,0,26,statically assigned space,,,Warsaw,Poland,52.2515,20.9989,
+472,ICS,FALSE,92.70700002,25|2|88,,,telecom,,,,,unknown,0,27,statically assigned space,,,Warsaw,Poland,52.2515,20.9989,
+473,other,FALSE,90.33100009,25|2|88,,,telecom,Apple AirPort Extreme WAP,93,,,proprietary,2,27,LNAUB659 Aubervilliers Bloc 2,,,Paris,France,48.8534,2.3488,
+474,unknown,FALSE,74.75700021,0|0|0,,,telecom,,,,,unknown,0,27,LNPAP656 Pointe a Pitre Bloc 1,,,Baie Mahault,Guadeloupe,16.3167,-61.0167,
+475,unknown,FALSE,89.23500013,6364|2843|88,,,telecom,,,,,unknown,2,27,LNMSO655 Montsouris Bloc 1,,,,France,48.8582,2.3387,
+476,ICS,FALSE,97.69799995,25|2|88,,,telecom,,,,,unknown,0,27,LNAUB656 Aubervilliers Bloc 1,,,,France,48.8582,2.3387,
+477,ICS,FALSE,86.03600001,25|2|88,,,telecom,,,,,unknown,0,24,LNMSO657 Montsouris Bloc 1,,,Orry-la-Ville,France,49.1335,2.5114,
+478,ICS,FALSE,75.30999994,25|2|88,,,telecom,Linux 2.6.18 - 2.6.22,86,,,Linux,0,27,LNPAP656 Pointe a Pitre Bloc 1,,,Le Gosier,Guadeloupe,16.2069,-61.4933,
+479,unknown,FALSE,90.49500012,5|47|4,,,telecom,Linux 2.6.32,95,,,Linux,0,27,"Static IP assignment
+DKNET, s.r.o.
+Lucenec
+Slovak Republic",,,Lučenec,Slovakia,48.3595,19.7628,
+480,other,FALSE,61.46399999,25|2|88,,,telecom,HP LaserJet 2840 printer,98,,,proprietary,1,26,"Level 3 Parent, LLC",,,St. Petersburg,United States,27.6294,-82.7039,
+481,unknown,FALSE,83.15600014,49|2|4,,,telecom,,,,,unknown,0,30,Nianet a/s,,,,Denmark,55.7123,12.0564,
+482,ICS,FALSE,92.52399993,25|2|88,,,telecom,,,,,unknown,0,27,LNMSO656 Montsouris Bloc 2,,,,France,48.8582,2.3387,
+483,unknown,FALSE,96.41299987,25|2|27480,,,unknown,,,,,unknown,0,27,Vertigo Plusz Kft.,,,Kistelek,Hungary,46.4725,19.9797,
+484,unknown,FALSE,84.84300017,25|0|0,,,unknown,,,,,unknown,1,27,"De Walvis BV
+ZWYNDRECHT",,,,Netherlands,52.3824,4.8995,
+485,ICS,FALSE,105.8929999,25|2|88,,,telecom,,,,,unknown,0,30,"Telefonica de Espana SAU (NCC # 2001015139)
+Red de servicios IP
+Spain",,,Amposta,Spain,40.7131,0.581,
+486,unknown,FALSE,96.88199997,0|0|0,,,telecom,,,,,unknown,0,24,"Telefonica de Espana SAU
+Red de servicios IP
+Spain
+144 - 148: NCC # 2001038578
+149 - 151: NCC # 2001039691",,,Reus,Spain,41.1561,1.1069,
+487,unknown,FALSE,91.86400008,0|0|0,,,telecom,,,,,unknown,0,26,LNMSO655 Montsouris Bloc 1,,,,France,48.8582,2.3387,
+488,ICS,FALSE,87.76999998,25|2|88,,,telecom,,,,,unknown,0,27,"Tele Caravaca S.L.
+Local TV and ISP Provider",,,Caravaca,Spain,38.0823,-1.9868,
+489,other,FALSE,131.2539999,0|0|0,,,telecom,IPCop 2 firewall (Linux 3.4),91,,,proprietary,0,19,"ADSL-PRO
+Belgacom ISP SA/NV",,,Brussels,Belgium,50.8466,4.3528,
+490,unknown,FALSE,91.99600005,25|0|0,,,unknown,Linux 2.6.32,95,,,Linux,4,26,customer,,,Liptovska Tepla,Slovakia,49.1025,19.4097,
+491,unknown,FALSE,85.13100004,2179|3992|11,,,telecom,,,,,unknown,0,30,"eircom Ltd
+IP network infrastructure
+Ireland
+** Send spam/hack/virus complaints to abuse@eircom.net
+** Complaints sent to the contacts listed below will not be
+** acted on!",,,Waterford,Ireland,52.2583,-7.1119,
+492,ICS,FALSE,92.796,0|0|0,,,telecom,AVtech Room Alert 26W environmental monitor,88,,,ICS,0,30,LNMSO656 Montsouris Bloc 1,,,Paris,France,48.8534,2.3488,
+493,ICS,FALSE,98.09000015,25|2|88,,,telecom,Linux 3.2,94,,,Linux,3,23,LNSTL658 Saint Lambert bloc 1,,,,France,48.8582,2.3387,
+494,other,FALSE,98.20300007,25|2|88,,,telecom,Linksys BEFSR41 EtherFast router,85,,,proprietary,1,24,LNSTL658 Saint Lambert bloc 2,,,Touquin,France,48.735,3.0122,
+495,unknown,FALSE,89.72099996,0|2|88,,,telecom,FreeBSD 6.2-RELEASE,86,,,Unix,1,21,EDPnet,,,Izegem,Belgium,50.9167,3.2,
+496,ICS,FALSE,104.9630001,25|2|88,,,telecom,,,,,unknown,1,21,LNSTL658 Saint Lambert bloc 2,,,,France,48.8582,2.3387,
+497,other,FALSE,98.41799998,0|0|0,,,telecom,Linksys BEFSR41 EtherFast router,85,,,proprietary,0,30,LNSTL656 St Lambert Bloc 1,,,,France,48.8582,2.3387,
+498,ICS,FALSE,92.83400011,25|2|88,,,telecom,,,,,unknown,1,30,LNPUT657 Puteaux Bloc 2,,,Paris,France,48.8628,2.3292,
+499,ICS,FALSE,85.14100003,25|2|88,,,telecom,AVtech Room Alert 26W environmental monitor,85,,,ICS,0,30,"OVH Telecom
+DSL static IP
+http://www.ovh.fr",,,Winnezeele,France,50.841,2.5512,
+500,ICS,FALSE,96.94099998,25|2|88,,,telecom,AVtech Room Alert 26W environmental monitor,88,,,ICS,0,29,"ZA RN 968
+21110
+BRETENIERE",,,,France,48.8582,2.3387,
+501,ICS,FALSE,103.8079998,25|2|88,,,telecom,,,,,unknown,0,30,LNSTL658 Saint Lambert bloc 2,,,,France,48.8582,2.3387,
+502,ICS,FALSE,100.9300001,25|2|88,,,telecom,AVtech Room Alert 26W environmental monitor,85,,,ICS,0,30,LNSTL656 St Lambert Bloc 2,,,,France,48.8582,2.3387,
+503,unknown,FALSE,93.07500005,20|42|4,,,telecom,Linux 2.6.32,95,,,Linux,3,24,"Static IP assignment
+Slovak Telekom",,,"Ipel""ske Predmostie",Slovakia,48.0625,19.0559,
+504,unknown,FALSE,85.56999993,41|49|4,,,telecom,Linux 2.6.32,93,,,Linux,1,28,skvely.net - NAT 1:1 adresy pro zakazniky,,,Slany,Czechia,50.2333,14.1,
+505,ICS,FALSE,61.91600013,25|2|88,,,telecom,,,,,unknown,0,30,"TOT Public Company Limited
+Zone A, 6th Floor, Building 1
+Swicthing and Network Interconnection System Standard Sector
+TOT Public Company
+89/2 Moo 3 Chaengwatthana Road",,,,Thailand,13.75,100.4667,
+506,ICS,FALSE,90.65300012,25|2|88,,,telecom,Linux 2.6.18 - 2.6.22,98,,,Linux,0,27,LNAUB656 Aubervilliers Bloc 1,,,,France,48.8582,2.3387,
+507,unknown,FALSE,25.25500011,82|2|88,,,telecom,,,,,unknown,0,23,"PT TELKOM INDONESIA
+                Menara Multimedia Lt.7
+                Jl. Kebon sirih No.12
+                JAKARTA",,,Jakarta,Indonesia,-6.1744,106.8294,
+508,other,FALSE,107.753,25|2|88,,,telecom,Grandstream GXV3275 video phone,89,,,proprietary,1,21,LNMSO657 Montsouris Bloc 1,,,,France,48.8582,2.3387,
+509,other,FALSE,89.66000009,25|2|88,,,unknown,Samsung M2825 printer,85,,,proprietary,0,21,Spesialgrossisten Troye AS,,,Bergen,Norway,60.3911,5.3247,
+510,ICS,FALSE,83.11500001,25|2|88,,,telecom,Linux 2.4.21,88,,,Linux,1,21,Pe3ny Net s.r.o.,,,Prague,Czechia,50.05,14.4,
+511,ICS,FALSE,61.75900006,25|2|88,,,telecom,,,,,unknown,1,21,Service Provider Corporation,,,,United States,37.751,-97.822,
+512,ICS,FALSE,61.6099999,25|2|88,,,telecom,,,,,unknown,1,22,Service Provider Corporation,,,,United States,37.751,-97.822,
+513,ICS,FALSE,61.84899998,25|2|88,,,telecom,,,,,unknown,1,22,Service Provider Corporation,,,,United States,37.751,-97.822,
+514,ICS,FALSE,61.73300004,25|2|88,,,telecom,,,,,unknown,1,22,Service Provider Corporation,,,,United States,37.751,-97.822,
+515,other,FALSE,71.8599999,25|2|88,,,telecom,DEC OSF/1 V4.0,87,,,Unix,0,22,Service Provider Corporation,,,,United States,37.751,-97.822,
+516,ICS,FALSE,80.10500002,25|2|88,,,telecom,AVtech Room Alert 26W environmental monitor,90,,,ICS,0,22,Service Provider Corporation,,,,United States,37.751,-97.822,
+517,ICS,FALSE,94.84700012,25|2|88,,,telecom,AVtech Room Alert 26W environmental monitor,86,,,ICS,0,23,Service Provider Corporation,,,,United States,37.751,-97.822,
+518,other,FALSE,93.28200006,25|2|88,,,telecom,DEC OSF/1 V4.0,86,,,Unix,0,22,Service Provider Corporation,,,,United States,37.751,-97.822,
+519,other,FALSE,96.81399989,25|2|88,,,telecom,DEC OSF/1 V4.0,86,,,Unix,0,23,Service Provider Corporation,,,,United States,37.751,-97.822,
+520,ICS,FALSE,571.5650001,25|2|88,,,unknown,Espressif ESP8266 WiFi system-on-a-chip,86,,,ICS,1,25,"Drienerlolaan 5
+P.O. Box 217
+NL - 7500 AE Enschede",,,Enschede,Netherlands,52.22,6.9009,
+521,other,FALSE,598.9349999,0|0|0,,,unknown,HP Brocade 4Gb SAN switch or,97,,,proprietary,0,30,,,,,Croatia,45.1667,15.5,
+522,ICS,FALSE,101.5079999,25|2|88,,,telecom,,,,,unknown,2,22,"GPRS pool for APN fixedIP.msk
+Moscow Branch of OJSC MegaFon",,,Moscow,Russia,55.7522,37.6156,
+523,ICS,FALSE,107.2480001,25|2|88,,,telecom,,,,,unknown,2,22,"Orange Romania
+Mobile Internet",,,Voluntari,Romania,44.49,26.1734,
+524,ICS,FALSE,100.529,25|2|88,,,telecom,,,,,unknown,3,21,NOS COMUNICACOES S.A.,,,Lisbon,Portugal,38.7167,-9.1333,
+525,other,FALSE,145.118,25|2|88,,,telecom,OpenWrt Kamikaze 8.09 (Linux 2.6.25.20),100,,,proprietary,3,30,TELUS Communications Inc.,,,,Canada,43.6319,-79.3716,
+526,unknown,FALSE,102.882,0|0|0,,,unknown,Linux 3.11 - 4.1,91,,,Linux,2,21,,,,,Spain,40.4172,-3.684,
+527,unknown,FALSE,107.1949999,25|2|22528,,,unknown,,,,,unknown,1,25,,,,,Spain,40.4172,-3.684,
+528,ICS,FALSE,86.92400002,25|2|88,,,telecom,Linux 3.2,100,,,Linux,0,30,Syd Energi internet - DHCP pooled,,,Aabenraa,Denmark,55.0443,9.4174,
+529,unknown,FALSE,615.5580001,0|0|0,,,telecom,,,,,unknown,0,30,"SiOL d.o.o. (Slovenia Online)
+ISP in Slovenia
+Cigaletova 15
+1000 Ljubljana, Slovenia",,,Ljubljana,Slovenia,46.0511,14.5051,
+530,ICS,FALSE,61.91899991,25|2|88,,,telecom,,,,,unknown,1,22,Service Provider Corporation,,,,United States,37.751,-97.822,
+531,unknown,FALSE,103.069,0|0|0,,,telecom,,,,,unknown,1,22,"Orange Romania
+Mobile Internet",,,,Romania,46,25,
+532,other,FALSE,99.58800006,39|2|274,,,telecom,Huawei Secospace USG6680 firewall,91,,,proprietary,0,21,NOS COMUNICACOES S.A.,,,Lisbon,Portugal,38.7167,-9.1333,
+533,unknown,FALSE,58.13899994,25|2|7309,,,telecom,,,,,unknown,0,30,Shaw Communications Inc.,,,High River,Canada,50.5834,-113.8687,
+534,ICS,FALSE,81.96099997,0|0|0,,,telecom,AVtech Room Alert 26W environmental monitor,86,,,ICS,0,19,Service Provider Corporation,,,,United States,37.751,-97.822,
+535,unknown,FALSE,75.94400001,40896|15983|1347,,,unknown,OpenBSD 4.0,91,,,Unix,1,21,"TTK
+Russia, Russia",,,,Russia,55.7386,37.6068,
+536,other,FALSE,65.68000007,25|2|88,,,unknown,Netopia 3366 ADSL router,100,,,proprietary,1,25,Armstrong,,,Fairview,United States,42.0337,-80.2285,
+537,unknown,FALSE,70.51999998,25|2|6400,,,telecom,,,,,unknown,0,22,Service Provider Corporation,,,,United States,37.751,-97.822,
+538,unknown,FALSE,83.22399998,25|2|0,,,telecom,,,,,unknown,0,25,Rogers Communications Canada Inc.,,,,Canada,43.6319,-79.3716,
+539,other,FALSE,74.91699982,640|2|88,,,telecom,Motorola RFS 6000 wireless switch,96,,,proprietary,0,25,Rogers Communications Canada Inc.,,,,Canada,43.6319,-79.3716,
+540,unknown,FALSE,99.7889998,0|0|0,,,telecom,Linux 2.6.18 - 2.6.22,86,,,Linux,0,22,VELCOM inetnum #7,,,,Belarus,53,28,
+541,ICS,FALSE,123.892,25|2|88,,,telecom,Sun Integrated Lights-Out Manager,95,,,ICS,0,22,MTSNET gprs-infra in Ural,,,,Russia,55.7386,37.6068,
+542,unknown,FALSE,86.85299993,43653|22530|88,,,unknown,,,,,unknown,0,22,,,,Salamanca,Spain,40.9688,-5.6639,
+543,unknown,FALSE,90.671,49920|14658|88,,,unknown,,,,,unknown,0,28,,,,Salamanca,Spain,40.9688,-5.6639,
+544,other,FALSE,93.08999991,25|2|88,,,telecom,Kyocera CopyStar CS 255 printer,88,,,proprietary,3,28,IP`s for Telekom`s users,,,Ljubljana,Slovenia,46.0511,14.5051,
+545,unknown,FALSE,120.5220001,0|49592|31457,,,telecom,Linux 2.6.18 - 2.6.22,89,,,Linux,0,19,APN static.beeline.ru,,,,Russia,55.7386,37.6068,
+546,ICS,FALSE,91.13899994,25|2|88,,,telecom,,,,,unknown,0,30,"Magyar Telekom customers using static IP
+DSL access",,,Hereg,Hungary,47.65,18.5167,
+547,unknown,FALSE,143.1859999,0|49600|5243,,,telecom,Linux 2.6.18 - 2.6.22,89,,,Linux,0,26,APN static.beeline.ru,,,,Russia,55.7386,37.6068,
+548,unknown,FALSE,140.987,26214|49594|13107,,,telecom,Linux 2.6.18 - 2.6.22,89,,,Linux,0,26,APN static.beeline.ru,,,,Russia,55.7386,37.6068,
+549,other,FALSE,88.29399991,25|2|88,,,telecom,D-Link DGS-1210 switch,94,,,proprietary,0,28,"RAWI-NET Sp.zoo
+Connected by EXATEL S.A.",,,Milicz,Poland,51.5235,17.2754,
+550,other,FALSE,91.94899988,0|0|0,,,telecom,D-Link DGS-1210 switch,94,,,proprietary,0,28,"RAWI-NET Sp.zoo
+Connected by EXATEL S.A.",,,Milicz,Poland,51.5235,17.2754,
+551,unknown,FALSE,85.08299994,0|0|0,,,telecom,,,,,unknown,1,28,Telenet Operaties N.V.,,,Tielt,Belgium,51,3.3167,
+552,other,FALSE,97.20500016,25|2|88,,,telecom,D-Link DGS-1210 switch,94,,,proprietary,0,28,"RAWI-NET Sp.zoo
+Connected by EXATEL S.A.",,,Milicz,Poland,51.5235,17.2754,
+553,other,FALSE,105.675,25|2|88,,,unknown,Grandstream GXV3275 video phone,88,,,proprietary,3,23,,,,Bucharest,Romania,44.4333,26.1,
+554,other,FALSE,84.41700006,1051|0|112,,,telecom,Samsung M2825 printer,95,,,proprietary,2,26,"Static Links
+Telia Eesti AS
+Mustamae tee 3
+Tallinn",,,Tallinn,Estonia,59.4339,24.7281,
+555,unknown,FALSE,149.8869998,0|0|0,,,unknown,Linux 3.2 - 3.8,99,,,Linux,1,27,"Frantisek Cesar, FC SYSTEMS
+Opletalova  220, Usti nad Labem",,,Děčín,Czechia,50.7167,14.1833,
+556,unknown,FALSE,150.3049998,0|0|0,,,telecom,,,,,unknown,0,30,XDSL NETWORK-ADSL,,,Konstantinovy Lazne,Czechia,49.8833,12.9667,
+557,ICS,FALSE,83.89100003,25|2|88,,,telecom,,,,,unknown,0,24,"Reverse delegation for A1 Slovenija
+Network infrastructure",,,Leskovec pri Krskem,Slovenia,45.9357,15.4718,
+558,other,FALSE,85.88499999,578|0|95,,,telecom,Samsung M2825 printer,93,,,proprietary,2,27,"Static Links
+Mustamae tee 3
+Tallinn
+Estonia
+Telia Eesti AS",,,,Estonia,59,26,
+559,ICS,FALSE,106.8600001,25|2|88,,,telecom,,,,,unknown,3,30,"Orange Moldova Network
+Chisinau, Republic of Moldova",,,Chisinau,Republic of Moldova,47.0056,28.8575,
+560,unknown,FALSE,103.566,25|2|6150,,,telecom,Linux 3.11 - 4.1,92,,,Linux,1,28,"Polkomtel sp. z o.o.
+Warszawa",,,Węgrów,Poland,52.402,22.0216,
+561,unknown,FALSE,86.71200013,25|2|88,,,unknown,,,,,unknown,2,27,,,,Milano,Italy,42.7833,12.6,
+562,unknown,FALSE,102.5610001,2004|1|22,,,unknown,,,,,unknown,0,28,,,,,Spain,40.4172,-3.684,
+563,unknown,FALSE,101.9790001,25|2|88,,,unknown,,,,,unknown,1,25,,,,,Spain,40.4172,-3.684,
+564,other,FALSE,90.06200004,25|2|88,,,unknown,Huawei Secospace USG6680 firewall,91,,,proprietary,0,23,,,,Setúbal,Portugal,38.5333,-8.9,
+565,other,FALSE,95.34000015,174|4|88,,,unknown,Huawei Secospace USG6680 firewall,91,,,proprietary,2,23,,,,Setúbal,Portugal,38.5333,-8.9,
+566,other,FALSE,94.44799995,0|0|0,,,unknown,TP-LINK TL-R478+ router,91,,,proprietary,1,22,,,,Svishtov,Bulgaria,43.6231,25.3539,
+567,unknown,FALSE,88.64100003,9022|8711|0,,,unknown,,,,,unknown,0,30,,,,Fadd,Hungary,46.4667,18.8333,
+568,unknown,FALSE,137.997,25|1|311,,,unknown,,,,,unknown,1,23,,,,Entroncamento,Portugal,39.4667,-8.4667,
+569,other,FALSE,97.03200006,25|2|88,,,telecom,OpenWrt Designated Driver (Linux 4.4),95,,,proprietary,0,28,"Telia Eesti AS
+Mustamae tee 3
+Tallinn",,,Tallinn,Estonia,59.4339,24.7281,
+570,ICS,FALSE,112.7059999,25|2|88,,,telecom,,,,,unknown,3,30,"Orange Moldova Network
+Chisinau, Republic of Moldova",,,Chisinau,Republic of Moldova,47.0056,28.8575,
+571,ICS,FALSE,94.20000005,25|2|88,,,telecom,Linux 3.2 - 3.8,91,,,Linux,0,28,Elisa mobile access network,,,Tallinn,Estonia,59.4339,24.7281,
+572,unknown,FALSE,88.81700015,25|2|88,,,unknown,Linux 3.2 - 3.8,100,,,Linux,0,30,PROVIDER Local Registry,,,Elche,Spain,38.2622,-0.7011,
+573,unknown,FALSE,91.89700007,25|2|88,,,unknown,,,,,unknown,1,22,,,,,Spain,40.4172,-3.684,
+574,unknown,FALSE,79.5480001,23551|17025|22016,,,telecom,,,,,unknown,0,21,"RCS & RDS Business
+City: Sebes",,,Constanța,Romania,44.1833,28.65,
+575,unknown,FALSE,105.0609999,0|4128|0,,,telecom,Linux 3.2.0,87,,,Linux,1,30,"Orange Romania
+Mobile Internet",,,Branesti,Romania,44.45,26.3333,
+576,other,FALSE,83.60200024,25|2|88,,,unknown,HP Laserjet CP1515n printer,98,,,proprietary,3,21,IP fixes,,,Ravoire,Switzerland,46.1007,7.0458,
+577,unknown,FALSE,99.72000003,0|0|0,,,telecom,,,,,unknown,0,23,"Telefonica de Espana SAU (NCC#2008052974)
+Red de servicios IP
+Spain",,,"Ivars d""Urgell",Spain,41.6833,1,
+578,other,FALSE,98.18400002,25|2|88,,,telecom,HP LaserJet M1522nf printer,91,,,proprietary,2,18,Convergenze S.p.A.,,,Agropoli,Italy,40.3492,14.9907,
+579,other,FALSE,83.296,25|2|88,,,unknown,HP Laserjet CP1515n printer,98,,,proprietary,3,21,IP fixes,,,Ravoire,Switzerland,46.1007,7.0458,
+580,other,FALSE,82.42499995,25|2|88,,,telecom,Grandstream GXV3275 video phone,95,,,proprietary,0,30,"CJS Company KOMSTAR-Regiony
+Volga Region Branch in Nizhny Novgorod",,,Gay,Russia,51.4739,58.4569,
+581,unknown,FALSE,614.9789999,25|2|88,,,telecom,,,,,unknown,0,30,"SiOL d.o.o. (Slovenia Online)
+ISP in Slovenia
+Cigaletova 15
+1000 Ljubljana, Slovenia",,,Volcja Draga,Slovenia,45.9069,13.6775,
+582,unknown,FALSE,1148.507,0|0|0,,,telecom,,,,,unknown,0,22,"Multimedia Polska S. A.
+Cable Internet Voice Provider
+Node Gdynia",,,Stargard,Poland,53.3366,15.0321,
+583,unknown,FALSE,672.0769999,0|0|0,,,telecom,,,,,unknown,0,23,"Multimedia Polska S. A.
+Cable Internet Voice Provider
+Node Gdynia",,,Stargard,Poland,53.3366,15.0321,
+584,unknown,FALSE,1.005000114,25|897|88,,,telecom,,,,,unknown,0,30,GLOBAL MOBILE OPERATOR,,,Seville,Spain,37.3824,-5.9761,
+585,ICS,FALSE,87.454,25|2|88,,,telecom,,,,,unknown,2,22,OBS Customer,,,Épernay,France,49.05,3.95,
+586,other,FALSE,73.32799983,25|2|88,,,unknown,Canon imageRUNNER C2380 or C2880i or Xerox Phaser 8860MFP printer,95,,,proprietary,1,21,Service Provider Corporation,,,,United States,37.751,-97.822,
+587,other,FALSE,28.28200006,25|2|88,,,telecom,Grandstream GXV3275 video phone,92,,,proprietary,0,23,TOT Public Company Limited Bangkok,,,,Thailand,13.75,100.4667,
+588,unknown,FALSE,89.00099993,25|53|0,,,telecom,Microsoft Windows CE 6.0,90,,,Windows,0,21,"VULA IP addresses POP 4201 for
+Static allocation to Residential with VULA Service",,,Genoa,Italy,44.4167,8.95,
+589,unknown,FALSE,60.81200004,7944|130|256,,,telecom,,,,,unknown,0,20,"Data Communication Business Group,
+Chunghwa Telecom Co.,Ltd.
+No.21, Sec.1, Xinyi Rd., Taipei City
+10048, Taiwan",,,Taipei,Taiwan,25.0478,121.5318,
+590,unknown,FALSE,28.98900008,25|2|88,,,telecom,,,,,unknown,0,21,TOT Public Company Limited Bangkok,,,,Thailand,13.75,100.4667,
+591,ICS,FALSE,90.22200012,25|2|88,,,telecom,,,,,unknown,0,20,LNSTL657 Saint Lambert Bloc 1,,,,France,48.8582,2.3387,
+592,other,FALSE,29.00900006,25|2|88,,,telecom,Acorp W400G or W422G wireless ADSL modem (MontaVista embedded Linux 2.4.17),96,,,proprietary,0,13,TOT Public Company Limited Bangkok,,,,Thailand,13.75,100.4667,
+593,unknown,FALSE,87.41799998,467|38|249,,,telecom,Linux 2.6.32 - 2.6.33,100,,,Linux,0,22,LNSTL656 St Lambert Bloc 2,,,Pont-Sainte-Maxence,France,49.3017,2.6047,
+594,ICS,FALSE,95.102,25|2|88,,,unknown,,,,,unknown,0,22,"(0020350A) Wastewater machines, Samara",,,Moscow,Russia,55.752,37.615,
+595,other,FALSE,95.60400009,25|2|88,,,unknown,Canon imageRUNNER C2380 or C2880i or Xerox Phaser 8860MFP printer,94,,,proprietary,0,25,"(0020350A) Wastewater machines, Samara",,,Moscow,Russia,55.752,37.615,
+596,unknown,FALSE,84.80499983,4475|1256|0,,,telecom,Linux 3.2 - 3.8,95,,,Linux,1,22,Altibox Corporate Customer Linknets,,,Stavanger,Norway,59.1352,5.9074,
+597,unknown,FALSE,90.77200007,0|0|0,,,unknown,OpenBSD 4.0,86,,,Unix,0,28,Select System Infrastructure of Sumperk region,,,Sumperk,Czechia,49.9667,16.9667,
+598,unknown,FALSE,19.70600009,25|2|32768,,,telecom,,,,,unknown,2,24,"DOMAIN FIVE ENTERPRISES LIMITED
+Internet Service Provider
+Kwaichung",,,,Hong Kong,22.25,114.1667,
+599,ICS,FALSE,161.9159999,25|2|88,,,,,,,,unknown,4,22,Red de servicios IP,,,,Spain,40.4172,-3.684,
+600,unknown,FALSE,133.9089999,0|0|0,,,telecom,,,,,unknown,0,24,"Dial-In Network
+The Access Points
+in Olomouc, Most,
+Liberec, Jihlava.",,,Prague,Czechia,50.0833,14.4667,
+601,other,FALSE,148.9859998,0|0|0,,,unknown,Android 4.0.4 (Linux 3.0.8),94,,,proprietary,2,24,,,,,Slovakia,48.6667,19.5,
+602,unknown,FALSE,125.9889998,0|0|0,,,unknown,,,,,unknown,0,20,SASSANO FRANCESCO E CONCETTA SNC,,,L’Aquila,Italy,42.3506,13.3995,
+603,other,FALSE,145.927,0|0|0,,,unknown,HP LaserJet 2840 printer,92,,,proprietary,0,25,,,,Piatra Neamţ,Romania,46.9167,26.3333,
+604,unknown,FALSE,136.2160001,0|0|0,,,unknown,,,,,unknown,1,22,,,,,Spain,40.4172,-3.684,
+605,unknown,FALSE,145.3679998,0|0|0,,,telecom,HP LaserJet 2840 printer,92,,,proprietary,1,27,"Telecom Italia S.p.A.
+Alice - Smart
+Services",,,San Prospero,Italy,44.7897,11.0221,
+606,other,FALSE,1052.131,0|0|0,,,edu,HP LaserJet 2840 printer,98,,,proprietary,1,24,"FH OOW
+Standort Wilhelmshaven",,,,Germany,51.2993,9.491,
+607,other,FALSE,133.7050002,0|0|0,,,telecom,HP LaserJet 2840 printer,89,,,proprietary,1,25,Slovak Telekom,,,,Slovakia,48.6667,19.5,
+608,unknown,FALSE,242.3,0|0|0,,,telecom,,,,,unknown,2,25,"O2 Slovakia s.r.o.
+static IP pool",,,,Slovakia,48.6667,19.5,
+609,unknown,FALSE,436.75,0|0|0,,,telecom,,,,,unknown,1,26,"Hiteles Kft.
+H-2300 Rackeve
+Szent Istvan u. 4.",,,Ivancsa,Hungary,47.15,18.8167,
+610,unknown,FALSE,119.6260002,0|0|0,,,unknown,,,,,unknown,3,21,Service Provider Corporation,,,,United States,37.751,-97.822,
+611,unknown,FALSE,148.605,0|0|0,,,unknown,,,,,unknown,0,30,BONDED FRAMED IP,,,,United Kingdom,51.4964,-0.1224,
+612,unknown,FALSE,129.3830001,0|0|0,,,telecom,,,,,unknown,2,22,OBS Customer,,,Paris,France,48.8628,2.3292,
+613,ICS,FALSE,140.151,25|2|88,,,telecom,Linux 3.11 - 4.1,91,,,Linux,1,22,Telemar Business/Residential Wireless Static PPP,,,Vicenza,Italy,45.5467,11.5475,
+614,ICS,FALSE,142.4330001,25|2|88,,,telecom,,,,,unknown,0,27,"T-Mobile USA, Inc.",,,Lilburn,United States,33.8639,-84.1243,
+615,ICS,FALSE,135.1639998,25|2|88,,,telecom,Linux 3.2 - 3.8,85,,,Linux,0,24,"Deutsche Telekom AG
+T-DSL Business static dial-up",,,Hamburg,Germany,53.593,9.9397,
+616,unknown,FALSE,139.8110001,0|0|0,,,telecom,,,,,unknown,2,28,LNPUT658 Puteaux Bloc 1,,,,France,48.8582,2.3387,
+617,unknown,FALSE,140.6389999,0|0|0,,,telecom,,,,,unknown,2,25,LNMSO657 Montsouris Bloc 1,,,,France,48.8582,2.3387,
+618,unknown,FALSE,129.5090001,0|0|0,,,telecom,,,,,unknown,2,27,LNPUT656 Puteaux Bloc 2,,,Saint-Pierre-du-Perray,France,48.6106,2.4943,
+619,unknown,FALSE,288.6989999,0|0|30873,,,telecom,,,,,unknown,0,30,Network for connected customers,,,Svendborg,Denmark,55.0598,10.6068,
+620,unknown,FALSE,146.675,0|0|0,,,unknown,,,,,unknown,0,30,"Telia Lietuva, AB",,,Alytus,Republic of Lithuania,54.4,24.05,
+621,unknown,FALSE,217.0830002,0|0|0,,,telecom,Linux 2.6.9 (CentOS 4.4),98,,,Linux,2,25,OBS Customer,,,,France,48.8582,2.3387,
+622,other,FALSE,107.7969999,0|0|0,,,ambiguous,Digi AnywhereUSB network-attached USB hub,95,,,proprietary,2,30,"The Candy Plus Sweet Factory, s.r.o.",,,Karlovy Vary,Czechia,50.2194,12.8861,
+623,unknown,FALSE,113.9620001,0|0|0,,,telecom,,,,,unknown,2,30,OBS Customer,,,Lille,France,50.633,3.0586,
+624,unknown,FALSE,127.918,0|0|0,,,telecom,,,,,unknown,2,30,OBS Customer,,,Lille,France,50.633,3.0586,
+625,unknown,FALSE,136.293,0|0|0,,,unknown,,,,,unknown,3,27,"Azienda Agraria Balbo di Vinadio Margherita
+Via Montepolesco nr. 16
+I-60024 Filotrano (AN)",,,,Italy,43.1479,12.1097,
+626,unknown,FALSE,104.296,0|0|0,,,unknown,Linux 3.2 - 3.8,89,,,Linux,2,28,"VAFO PRAHA, s.r.o.
+Chrastany 94
+Chrastany, 25219
+Czech Republic",,,,Czechia,50.0848,14.4112,
+627,other,FALSE,113.1660001,0|0|0,,,ambiguous,HP LaserJet 2840 printer,95,,,proprietary,2,29,Eole Venoy Beine,,,Carcassonne,France,43.2135,2.3516,
+628,other,FALSE,111.0839999,0|0|0,,,ambiguous,HP LaserJet 2840 printer,94,,,proprietary,2,25,Eole Venoy Beine,,,Carcassonne,France,43.2135,2.3516,
+629,other,FALSE,110.9009998,0|0|0,,,telecom,HP LaserJet 2840 printer,94,,,proprietary,2,18,LNNLY657 Neuilly Bloc 2,,,Saint-Sauveur-de-Montagut,France,44.8214,4.5799,
+630,unknown,FALSE,123.707,0|0|0,,,telecom,,,,,unknown,2,30,LNAUB658 Aubervilliers Bloc 2,,,,France,48.8582,2.3387,
+631,ambiguous,FALSE,376.734,0|0|0,,,ambiguous,Microsoft Windows Server 2008 R2,100,,,Windows,2,19,Fonderia Boccacci,,,,Italy,43.1479,12.1097,
+632,unknown,FALSE,140.8570001,0|0|0,,,telecom,,,,,unknown,2,24,LNNLY657 Neuilly Bloc 1,,,,France,48.8582,2.3387,
+633,unknown,FALSE,111.891,0|0|0,,,unknown,,,,,unknown,2,30,OBS Customer,,,Aire-sur-la-Lys,France,50.6387,2.3988,
+634,unknown,FALSE,595.0469999,0|0|0,,,unknown,Microsoft Windows 2000 SP4,95,,,Windows,1,27,,,,,Poland,52.2394,21.0362,
+635,unknown,FALSE,896.7030001,0|0|0,,,telecom,,,,,unknown,1,24,"Data Communication Business Group,
+Chunghwa Telecom Co.,Ltd.
+No.21, Sec.1, Xinyi Rd., Taipei City
+10048, Taiwan",,,Taipei,Taiwan,25.0478,121.5318,
+636,other,FALSE,108.0869999,0|0|0,,,telecom,HP LaserJet 2840 printer,98,,,proprietary,1,27,Customer VSM POP Moelln-Werkhof,,,Moelln,Germany,53.617,10.6874,
+637,other,FALSE,111.9100001,0|0|0,,,telecom,HP LaserJet M1522nf printer,95,,,proprietary,0,30,OBS Customer,,,Ailly-sur-Somme,France,49.9289,2.1961,
+638,other,FALSE,112.5899999,0|0|0,,,telecom,HP LaserJet M1522nf printer,95,,,proprietary,2,27,OBS Customer,,,Ailly-sur-Somme,France,49.9289,2.1961,
+639,other,FALSE,99.43099999,0|0|0,,,telecom,HP LaserJet 2840 printer,98,,,proprietary,1,24,"Data Communication Business Group,
+Chunghwa Telecom Co.,Ltd.
+No.21, Sec.1, Xinyi Rd., Taipei City
+10048, Taiwan",,,Taichung,Taiwan,24.1469,120.6839,
+640,unknown,FALSE,109.977,0|0|0,,,telecom,,,,,,1,19,IT REGION Network,,,Gatchina,Russia,59.5764,30.1283,
+641,unknown,FALSE,234.8940001,0|0|0,,,telecom,Linux 2.6.9 (CentOS 4.4),98,,,Linux,1,29,OBS Customer,,,,France,48.8582,2.3387,
+642,unknown,FALSE,59.91300011,0|0|0,,,unknown,Linux 3.11 - 4.1,94,,,Linux,0,24,,,,,Israel,31.5,34.75,
+643,unknown,FALSE,102.9530001,25|2|88,,,unknown,,,,,,0,30,,,,Martorelles,Spain,41.5333,2.2333,
+644,ICS,FALSE,0.907999992,connection failed,,,unknown,CMI Genus NEMA terminal,91,,,ICS,0,20,,,,,Israel,31.5,34.75,
+645,other,FALSE,109.4360001,connection failed,,,telecom,Digi AnywhereUSB network-attached USB hub,95,,,proprietary,0,22,"Dial-In Network
+The Access Points
+in Hustopece, Mikulov
+Kyjov, Veseli n. Moravou",,,Prague,Czechia,50.0833,14.4667,
+646,other,FALSE,298.776,connection failed,,,telecom,HP ProCurve 4000M switch (J4121A),100,,,proprietary,0,27,TURKCELL INTERNET,,,,Turkey,41.0214,28.9948,
+647,unknown,FALSE,155.2490001,connection failed,,,telecom,Linux 2.4.20,100,,,Linux,2,22,"KB Arbetsstolen 3 - Internet Access
+Located in Hagersten",,,Stockholm,Sweden,59.3333,18.05,
+648,other,FALSE,2036.29,connection failed,,,telecom,HP ProCurve 4000M switch (J4121A),100,,,proprietary,0,23,TURKCELL INTERNET,,,,Turkey,41.0214,28.9948,
+649,other,FALSE,147.5220001,connection failed,,,telecom,OpenWrt Designated Driver (Linux 4.4),92,,,proprietary,0,27,Servcie for public ip's,,,,Germany,51.2993,9.491,
+650,other,FALSE,25.38400006,connection failed,,,telecom,Motorola RFS 6000 wireless switch,100,,,proprietary,1,27,OPENSKY-NET,,,Dego,Italy,44.4445,8.3076,
+651,ICS,FALSE,146.1320002,connection failed,,,telecom,MOXA Ethernet-to-serial bridge,94,,,ICS,0,30,North-West Branch of OJSC MegaFon Network (Fixed IP addresses for GPRS Customers).,,,Moscow,Russia,55.7522,37.6156,
+652,other,FALSE,238.8469999,connection failed,,,telecom,HP 4200 PSA (Print Server Appliance) model J4117A,92,,,proprietary,1,27,"MobiFon S.A.
+3, Nerva Traian Street
+Complex M101, Sector 3
+Bucharest, Romania",,,Bucharest,Romania,44.4333,26.1,
+653,other,FALSE,257.1650002,connection failed,,,telecom,Acorp W400G or W422G wireless ADSL modem (MontaVista embedded Linux 2.4.17),92,,,proprietary,1,22,"MobiFon S.A.
+3, Nerva Traian Street
+Complex M101, Sector 3
+Bucharest, Romania",,,Bucharest,Romania,44.4333,26.1,
+654,other,FALSE,238.8400002,connection failed,,,telecom,Cisco SA520 firewall (Linux 2.6),92,,,proprietary,1,25,"MobiFon S.A.
+3, Nerva Traian Street
+Complex M101, Sector 3
+Bucharest, Romania",,,Bucharest,Romania,44.4333,26.1,
+655,unknown,FALSE,126.016,connection failed,,,telecom,Linux 2.6.32,95,,,Linux,1,24,Net By Net Holding LLC,,,Nakhodka,Russia,42.8333,132.8947,
+656,other,FALSE,132.8199999,connection failed,,,telecom,Cisco Adaptive Security Appliance (ASA 8.4),91,,,proprietary,1,28,"static IP
+BRZEG
+POLAND",,,,Poland,52.2394,21.0362,
+657,other,FALSE,110.085,connection failed,,,telecom,Fortinet FortiOS 5.0.6,95,,,proprietary,1,22,TURKCELL INTERNET,,,,Turkey,41.0214,28.9948,
+658,other,FALSE,129.585,connection failed,,,unknown,D-Link DSL-2890AL ADSL router,100,,,proprietary,0,30,Red de servicios IP,,,,Spain,40.4172,-3.684,
+659,other,FALSE,184.7329998,connection failed,,,unknown,Canon imageRUNNER C5185 printer,88,,,proprietary,1,30,Red de servicios IP,,,,Spain,40.4172,-3.684,
+660,unknown,FALSE,126.8179998,connection failed,,,telecom,Linux 2.4.20,94,,,Linux,2,21,"Telia Lietuva, AB",,,Palanga,Republic of Lithuania,55.9175,21.0686,
+661,other,FALSE,111.4720001,connection failed,,,telecom,Enterasys Matrix E1 switch,86,,,proprietary,3,23,OBS Customer,,,Bettencourt-Saint-Ouen,France,50.0259,2.1132,
+662,other,FALSE,69.44000006,connection failed,,,unknown,AirSpan ProST WiMAX access point,94,,,proprietary,1,22,Service Provider Corporation,,,,United States,37.751,-97.822,
+663,other,FALSE,125.9290001,connection failed,,,telecom,Canon imageRUNNER C2380 or C2880i or Xerox Phaser 8860MFP printer,91,,,proprietary,0,23,TURKCELL INTERNET,,,,Turkey,41.0214,28.9948,
+664,unknown,FALSE,98.81900001,connection failed,,,telecom,Microsoft Windows Server 2008 or 2008 Beta 3,99,,,Windows,1,30,LNMSO659 Montsouris Bloc 2,,,,France,48.8582,2.3387,
+665,unknown,FALSE,98.35699987,connection failed,,,telecom,"Microsoft Windows Vista SP0 or SP1, Windows Server 2008 SP1, or Windows 7",100,,,Windows,0,22,LNMSO656 Montsouris Bloc 1,,,,France,48.8582,2.3387,
+666,other,FALSE,97.079,connection failed,,,telecom,HP LaserJet 2840 printer,94,,,proprietary,1,22,LNPUT657 Poitiers Bloc 2,,,,France,48.8582,2.3387,
+667,unknown,FALSE,92.49900007,connection failed,,,unknown,Linux 2.6.15 - 2.6.26 (likely embedded),92,,,unknown,1,26,Service Provider Corporation,,,,United States,37.751,-97.822,
+668,unknown,FALSE,76.41799998,connection failed,,,telecom,Linux 3.2 - 3.8,92,,,Linux,2,30,TELUS Communications Inc.,,,,Canada,43.6319,-79.3716,
+669,other,FALSE,74.99000001,connection failed,,,unknown,Avaya 4000- or 5000-series Ethernet Routing switch,97,,,proprietary,0,23,Service Provider Corporation,,,Atlanta,United States,33.749,-84.388,
+670,unknown,FALSE,103.247,connection failed,,,telecom,Microsoft Windows 7 Professional,89,,,Windows,1,21,Inexa Tecnologia LTDA.,,,Lucas do Rio Verde,Brazil,-13.041,-56.1558,
+671,unknown,FALSE,204.7049999,connection failed,,,telecom,Linux 2.6.32,100,,,Linux,0,30,Fonelight Telecomunicaes S/A,,,,Brazil,-22.8305,-43.2192,
+672,other,FALSE,147.579,connection failed,,,unknown,Canon imageRUNNER C2380 or C2880i or Xerox Phaser 8860MFP printer,91,,,proprietary,1,26,Red de servicios IP,,,,Spain,40.4172,-3.684,
+673,other,FALSE,268.8110001,connection failed,,,telecom,Motorola RFS 6000 wireless switch,100,,,proprietary,1,28,OPENSKY-NET,,,,Italy,43.1479,12.1097,
+674,other,FALSE,253.9650002,connection failed,,,telecom,Motorola RFS 6000 wireless switch,100,,,proprietary,0,22,OPENSKY-NET,,,Dego,Italy,44.4445,8.3076,
+675,other,FALSE,251.6789999,connection failed,,,telecom,Motorola RFS 6000 wireless switch,100,,,proprietary,0,25,OPENSKY-NET,,,Albinea,Italy,44.6286,10.6102,
+676,ICS,FALSE,89.96000004,connection failed,,,telecom,AVtech Room Alert 26W environmental monitor,86,,,ICS,0,26,"AUNA - CTC
+Internet de Banda Ampla
+CableModem",,,Barcelona,Spain,41.3888,2.159,
+677,unknown,FALSE,173.6059999,connection failed,,,telecom,Linux 3.2 - 3.8,100,,,Linux,3,27,Pool for static IP-address services for mobile customers,,,,Russia,55.7386,37.6068,
+678,other,FALSE,99.20299983,connection failed,,,telecom,Linksys BEFSR41 EtherFast router,85,,,proprietary,0,30,LNMSO657 Montsouris Bloc 1,,,Rive-de-Gier,France,45.5307,4.6213,
+679,other,FALSE,100.7079999,connection failed,,,telecom,Linksys BEFSR41 EtherFast router,85,,,proprietary,1,30,LNMSO658 Montsouris Bloc 1,,,,France,48.8582,2.3387,
+680,ICS,FALSE,96.63499999,connection failed,,,telecom,AVtech Room Alert 26W environmental monitor,88,,,ICS,0,22,LNSTL656 St Lambert Bloc 1,,,,France,48.8582,2.3387,
+681,ICS,FALSE,92.52600002,connection failed,,,unknown,AVtech Room Alert 26W environmental monitor,86,,,ICS,1,23,Service Provider Corporation,,,,United States,37.751,-97.822,
+682,other,FALSE,103.3989999,connection failed,,,unknown,Axceint Uptiva backup appliance,92,,,proprietary,0,25,Red de servicios IP,,,,Spain,40.4172,-3.684,
+683,other,FALSE,89.15400004,connection failed,,,telecom,Samsung M2825 printer,90,,,proprietary,2,26,LNMSO657 Montsouris Bloc 2,,,,France,48.8582,2.3387,
+684,unknown,FALSE,133.1139998,connection failed,,,telecom,Linux 2.6.18 - 2.6.22,89,,,Linux,0,21,APN static.beeline.ru,,,,Russia,55.7386,37.6068,
+685,other,FALSE,127.322,connection failed,,,telecom,AVM FRITZ!Box FON WLAN 7170 WAP,87,,,proprietary,0,29,"SP Subscribers-Dynamic private, soho, & sme customers (basic connectivity)",,,Haifa,Israel,32.8156,34.9892,
+686,other,FALSE,106.053,connection failed,,,telecom,Fortinet FortiOS 5.0.6,94,,,proprietary,2,27,TURKCELL INTERNET,,,,Turkey,41.0214,28.9948,
+687,unknown,FALSE,99.21000004,connection failed,,,telecom,Linux 3.11 - 4.1,94,,,Linux,2,29,"Telefonica de Espana SAU
+Red de servicios IP
+Spain",,,Madrid,Spain,40.4165,-3.7026,
+688,other,FALSE,85.52200007,connection failed,,,unknown,Grandstream GXV3275 video phone,95,,,proprietary,0,30,"CJS Company KOMSTAR-Regiony
+Volga Region Branch in Nizhny Novgorod",,,Gay,Russia,51.4739,58.4569,
+689,other,FALSE,2053.766,connection failed,,,telecom,Grandstream GXV3275 video phone,95,,,proprietary,1,25,Customers - GPRS,,,Kralupy nad Vltavou,Czechia,50.2333,14.3167,
+690,other,FALSE,2.132999897,connection failed,,,telecom,HP ProCurve 4000M switch (J4121A),100,,,proprietary,0,26,TURKCELL INTERNET,,,,Turkey,41.0214,28.9948,
+691,other,FALSE,8.010999918,connection failed,,,telecom,HP ProCurve 4000M switch (J4121A),100,,,proprietary,0,26,TURKCELL INTERNET,,,,Turkey,41.0214,28.9948,
+692,other,FALSE,8.006000042,connection failed,,,telecom,HP ProCurve 4000M switch (J4121A),100,,,proprietary,0,27,TURKCELL INTERNET,,,,Turkey,41.0214,28.9948,
+693,unknown,FALSE,84.17999983,connection failed,,,telecom,Linux 2.6.32,90,,,Linux,0,22,Bell Canada,,,Calgary,Canada,51.1467,-114.3133,
+694,other,FALSE,131.579,connection failed,,,telecom,Tomato 1.27 - 1.28 (Linux 2.4.20),89,,,proprietary,0,27,LNAUB658 Aubervilliers Bloc 1,,,,France,48.8582,2.3387,
+695,unknown,FALSE,116.632,connection failed,,,telecom,Linux 2.6.32 - 2.6.33,94,,,Linux,2,26,MOUNA Group Technology Sa.,,,,Guinea,11,-10,
+696,other,FALSE,178.9890001,connection failed,,,unknown,HP LaserJet 2840 printer,94,,,proprietary,1,26,Red de servicios IP,,,,Spain,40.4172,-3.684,
+697,other,FALSE,136.29,connection failed,,,telecom,Blue Coat PacketShaper appliance,96,,,proprietary,0,24,"Star Net Alba SRL
+b-dul Revolutiei, nr. 26 bl. MV2, ap. 3
+Alba Iulia Alba Romania",,,Rosia de Secas,Romania,46.05,23.8833,

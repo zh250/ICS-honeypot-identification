@@ -1,0 +1,44 @@
+all numeric value in the chart is percentage,,,,,,,,,,,,
+,,accuracy,precision,recall,f1 score,,,,accuracy,precision,recall,f1 score
+,SVM,93.6,91.9,93.6,92.25,,,SVM,93.1,88.3,93.1,90.6
+ATG (multiclass),decision tree,93.6,88.81,93.6,91.07,,ATG (multiclass),decision tree,93.6,88.97,93.6,91.09
+all,random forest,94.09,76.85,63.23,65.51,,common,random forest,93.6,57.43,59.55,58.43
+,ANN,94.09,91.93,94.09,92.5,,,ANN,94.09,94.4,94.09,92.85
+permutation importance of all features:,atgTwoTimesCompare > atgPREMIUM > OS_conclusion > atgSUPER > atgUNLEAD > ISP_conclusion > OpenPortNum > hopNum > atgDIESEL,,,,,,permutation importance of common features:,ISP_conclusion > OpenPortNum > OS_conclusion > hopNum,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,accuracy,precision,recall,f1 score,,,,,,,
+,SVM,97.3,94.7,48.6,64.2,,,,,,,
+ATG (binary),naive bayes,97.3,94.7,48.6,64.2,,,,,,,
+all (different features),decision tree,97.3,94.7,48.6,64.2,,,,,,,
+,ANN,97.3,94.7,48.6,64.2,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,accuracy,precision,recall,f1 score,,,,accuracy,precision,recall,f1 score
+,SVM,93.39,92.96,93.39,93.04,,,SVM,94.16,93.95,94.16,93.77
+S7 (multiclass),decision tree,93.77,94.1,93.77,93.87,,S7 (multiclass),decision tree,92.61,92.67,92.61,92.5
+all,random forest,93.77,85.86,87.88,86.67,,common,random forest,93.77,88.02,82.39,84.07
+,ANN,93,92.96,93,92.89,,,ANN,92.61,92.08,92.61,91.99
+permutation importance of all features:,OS_conclusion > ISP_conclusion > SerialNumberOfModule > s7ResponseTime > s7time5After > NameOfThePLC > OpenPortNum > PlantIdentification > hopNum,,,,,,permutation importance of common features:,ISP_conclusion > OS_conclusion > openPortNum > hopNum,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,accuracy,precision,recall,f1 score,,,,,,,
+,SVM,95.3,91.4,47.9,62.9,,,,,,,
+S7 (binary),naive bayes,85.1,71.8,42.2,53.2,,,,,,,
+all (different features),decision tree,95.3,91.4,47.9,62.9,,,,,,,
+,ANN,82.8,74.2,44.8,55.9,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,accuracy,precision,recall,f1 score,,,,accuracy,precision,recall,f1 score
+,SVM,84.28,84.68,84.29,83.69,,,SVM,70,75.68,70,69.18
+modbus (multiclass),decision tree,85.24,87.29,85.24,83.48,,modbus (multiclass),decision tree,69.05,72.99,69.05,67.37
+all,random forest,87.62,90.64,80.98,83.19,,common,random forest,71.9,79.92,69.81,71.92
+,ANN,87.62,88.1,87.62,87.44,,,ANN,69.05,74.43,69.05,67.83
+permutation importance of all features:,OS_conclusion > modbusReadRegister > ISP_conclusion > OpenPortNum > modbusErrorRequestTime > hopNum,,,,,,permutation importance of common features:,OS_conclusion > ISP_conclusion > OpenPortNum > hopNum,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,accuracy,precision,recall,f1 score,,,,,,,
+,SVM,66.7,33.3,25,28.6,,,,,,,
+modbus (binary),naive bayes,63.3,46.7,36.8,41.2,,,,,,,
+all (different features),decision tree,83.3,73.3,44,55,,,,,,,
+,ANN,46.7,33.3,35.7,34.5,,,,,,,
