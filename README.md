@@ -16,7 +16,7 @@ The experimental results are in the folders of their corresonding algorithms of 
 The experimental results in this file just a summary of all results and compare with [Wu's research](). You can execute the program by yourself to check the result (*mention: datasets and source code may be updated. Although I will try to make sure all files in the repository are updated correctly, the result may be different. It is just a reference*)
 
 ### [main.py](./main.py)
-The main entrance of all ML program (**you do not need to execute any other program in the repository, for more details about executing, please refer [here]()**), including four machine learning algorithm experiments of three protocols, distinguishes common features and all features, and supports parameter search
+The main entrance of all ML program, including four machine learning algorithm experiments of three protocols, distinguishes common features and all features, and supports parameter search
 
 
 ## Others
