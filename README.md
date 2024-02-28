@@ -4,7 +4,7 @@
 ## Files and directories in the repository
 
 ### [data](./data/)
-Original datasets of three ICS protocols ([ATG](https://secure.apps.nd.gov/doh/operator/Training/OperatorTraining_ATG.pdf), [modbus](https://en.wikipedia.org/wiki/Modbus), [S7](https://wiki.wireshark.org/S7comm)) after label and feature processing (Datasets were based on [yunyueye's work](https://github.com/yunyueye/honeypot), more details about datasets please refer [here](), The original raw data of datasets were captured and authorized by [Ditecting](https://www.ditecting.com/) with some attributes were queried from [Shodan's API](https://developer.shodan.io/api/clients))
+Original datasets of three ICS protocols ([ATG](https://secure.apps.nd.gov/doh/operator/Training/OperatorTraining_ATG.pdf), [modbus](https://en.wikipedia.org/wiki/Modbus), [S7](https://wiki.wireshark.org/S7comm)) after label and feature processing (Datasets were based on [yunyueye's work](https://github.com/yunyueye/honeypot), more details about datasets please refer [here](./data/datasets_preprocessing.txt), The original raw data of datasets were captured and authorized by [Ditecting](https://www.ditecting.com/) with some attributes were queried from [Shodan's API](https://developer.shodan.io/api/clients))
 **for legal and ethcial reasons, all IP were hidden**
 
 ### [ml](./ml/)
@@ -26,6 +26,19 @@ Originally，there is a web GUI for demonstration (like Shodan's [Honeyscore](ht
 For researchers in the field: **[Naive Bayes classifier](https://en.wikipedia.org/wiki/Naive_Bayes_classifier) is unsutiable for the classifcation task here**, because it cannot make sure OS and ISP type of a captured IP mutually independent. Some cloud service providers only provide certain OSs (like Linode), and IP of cloud service providers accounts for a non-negligible proportion in these datasets
 
 The mian innovation in this project is the feature extraction and processing method, please refer [here]() for more details, and more explanations and details will be supplemented in the future
+
+
+### How to execute
+
+#### Requirements
+
+Operating system and libraries: tested on Ubuntu 22.04 LTS with Python 3.10.12, numpy 1.20.2, pandas 2.1.3, scipy 1.11.4, sklearn 1.4.1.post1 and mocOS 12.7.4 (Intel) with Python 3.9.6, numpy 1.24.3, pandas 2.0.1, scipy 1.10.1, sklearn 1.2.2
+
+#### Executing steps
+
+1. ``
+2. ``
+3. ``
 
 
 ## Future works
