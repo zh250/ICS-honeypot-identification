@@ -25,7 +25,7 @@ Originally，there is a web GUI for demonstration (like Shodan's [Honeyscore](ht
 
 For researchers in the field: **[Naive Bayes classifier](https://en.wikipedia.org/wiki/Naive_Bayes_classifier) is unsutiable for the classifcation task here**, because it cannot make sure OS and ISP type of a captured IP mutually independent. Some cloud service providers only provide certain OSs (like Linode), and IP of cloud service providers accounts for a non-negligible proportion in these datasets
 
-The mian innovation in this project is the feature extraction and processing method, please refer [here]() for more details, and more explanations and details will be supplemented in the future
+The mian innovation in this project is the feature extraction and processing method, please refer [here](./data/datasets_preprocessing.txt) for more details, and more explanations and details will be supplemented in the future
 
 
 ### How to execute
