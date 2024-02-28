@@ -36,9 +36,14 @@ Operating system and libraries: tested on Ubuntu 22.04 LTS with Python 3.10.12, 
 
 #### Executing steps
 
-1. ``
-2. ``
-3. ``
+1. Clone this repository: `git clone https://github.com/zh250/ICS-honeypot-identification.git`
+2. Open the directory: `cd ICS-honeypot-identification`
+3. There are two options to execute the program:
+   - grant permission for main.py and execute it directly
+     - grant permission for main.py by command: `chmod 777 main.py`
+     - then execute main.py directly by command: `./mainpy`
+   - execute main.py by python
+     - (make sure python3 is already in your PATH) execute command: `python3 main.py`
 
 
 ## Future works
