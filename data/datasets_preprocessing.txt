@@ -1,0 +1,175 @@
+S7(conpot) default config:
+---S7 conpot feature 1 - s7PlantIdentification: string and encode into several int
+FacilityName (namely s7PlantIdentification in chart): Mouser Factory
+for PlantIdentification, empty, "Mouser Factory", "DoE Water Service" mark as 0,1,2 separately, others as 3
+
+---S7 conpot feature 2 - s7NameOfThePLC: string and encode into several int
+SystemName (namely s7NameOfThePLC in chart): Technodrome
+for NameOfThePLC, empty，Technodrome，SAAP7-SERVER, SIMATIC 300(1), PC35xV mark as 0,1,2,3,4 separately, others as 5
+
+---S7 conpot feature 3 - s7SerialNumberOfModule: string and encode into several int
+S7_id (namely s7SerialNumberOfModule in chart): 88111222
+for SerialNumberOfModule, empty, 88111222, "S C-C2UR28922012" mark as 0,1,2 separately, others as 3
+
+---if all value is (Mouser Factory, Technodrome, 88111222) in these three columns above, it must be a conpot---
+
+---these three features are not used in experiments---
+Copyright: Original Siemens Equipment |such value can be in real ICS
+S7_module_type: IM151-8 PN/DP CPU |such value can be in real ICS
+Module Name: Siemens, SIMATIC, S7-200 |such value can be in real ICS
+
+---S7 conpot feature 4 - s7time5After: boolean
+S7 time 5 after is also a conpot feature not a S7 protocol feature
+if a host sends FIN and ACK after 5s, it is high likely be a conpot
+for Time5Later (namely s7time5After in chart):
+True (in the chart) represent SYN (keep data communication)
+False (in the chart) represent FIN+RST (data link rest by honeypot)
+
+---S7 conpot feature 5 (weak feature) - s7ResponseTime: float and convert into several group by k-bins algorithm (mention: some cells are empty, mark empty as 0)
+response time: PLC's is 7 times of conpot's response time (but affect by hop, if it is high hop, the value is inaccuracy)
+in the same LAN, Delta time or response time of S7 conpot is 0.000679s, real S7 is 0.004706s
+for ResponseTime (s7ResponseTime (s) in the chart), encode into the same width
+according to data, honeypot response time is about 0.3s
+while ICS response time is about 0.6s
+
+the s7ResponseTime can be encoded by k-bins algorithm which is provided by sciki-learn
+(reference https://github.com/yunyueye/honeypot/blob/main/process_data.py)
+convert by k-bins algorithm, ''kbd = KBinsDiscretizer(n_bins=20, encode='ordinal', strategy='uniform')''
+this statement is for reference only, in the paper, the response time is encode to 7 groups from 0s and split every 0.2s as a group
+and encode from minimum value which is 0.0557500123978s to maximum value is 5.6545999527s
+average is 0.46309271087229s
+some cells in this column is empty, it may indicate no response, and mark empty as 0 in ML step
+(it does not mean response time is 0s, when ML, encode every group of s7ResponseTime as 1,2,3...)
+be cautious, s7ResponseTime is affected by common feature 2 (OpenPortNum)
+can reference https://github.com/yunyueye/honeypot/blob/main/process_s7_data.py to process S7 data
+
+
+---
+
+---common feature 1 - hopNum: int and convert to several groups
+Hop number (hopNum in the chart) is a common TCP/IP protocol characteristic
+for hop num in S7, 14<hopNum<30, split every 5 hops as a group. mark 11-15 as 0, 16-20 as 1, 21-25 as 2, 26-30 as 3
+
+---common feature 2 - OpenPortNum: int
+open ports number (OpenPortNum in the chart) is a common TCP/IP protocol feature
+OpenPortNum are the same as origin value in the chart (do not need any conversion)
+
+------
+
+ATG(gaspot) default config:
+---ATG gaspot characteristic 1,2,3,4 (each product is regarded as a feature)
+product1: SUPER - atgSUPER: 0/1
+product2: UNLEAD - atgUNLEAD: 0/1
+product3: DIESEL - atgDIESEL: 0/1
+product4: PREMIUM - atgPREMIUM: 0/1
+if a host contains such 4 products at the same time, it is high likely be a gaspot, but if just some appear, it may not be a gaspot
+for ATGproduct1 (atgSUPER in the chart), ATGproduct2 (atgUNLEAD in the chart), ATGproduct3 (atgDIESEL in the chart), ATGproduct4 (atgPREMIUM in the chart), when it is SUPER, UNLEAD, DIESEL, PREMIUM separately, each of them mark as 1, otherwise, mark as 0
+
+---this feature is not used in experiments---
+we can communicate with host by ATG and get the station name, default station name is popular in some countries, but for example, there cannot be a Total oil station in Ireland or any default station in China (China just has Sinopec and CNPC stations, and no other brands), it indicates something. But such stations is valid in some cases. If in US, most stations brand can be found
+
+---ATG gaspot feature 5 - atgTwoTimesCompare: boolean
+for a possibly real ATG, any products |ULLAGE| = |VOLUMETC1 - VOLUMETC2|
+but if exist any |ULLAGE1 - ULLAGE2| != |VOLUMETC1 - VOLUMETC2|, it will be a gaspot
+for ATGTimeApplication (atgTwoTimesCompare in the chart)
+if meet the feature, mark as True, or mark as False
+
+---
+
+---common feature 1 - hopNum: int and convert to several groups
+Hop number (hopNum in the chart) is a common TCP/IP protocol feature
+for hop num in ATG, 13<hopNum<30, split every 5 hops as a group
+11-15 as 0, 16-20 as 1, 21-25 as 2, 26-30 as 3
+
+---common characteristic 2 - OpenPortNum: int
+open ports number (OpenPortNum in the chart) is a common TCP/IP protocol characteristic
+OpenPortNum are the same as origin value in the chart (do not need any conversion)
+
+------
+
+modbus(conpot)
+---modbus conpot characteristic 1 - modbusReadRegister: string and encode into several codes
+execute code 0X10 to write modbus register, and use code 0X03 read out, the written in contents can be read out
+(but some real device cannot read out due to lack of priviledge)
+in this case, write conpot (modbus), connection fail (illegal data address)
+ReadWriteHoldingRegisters (modbusReadRegister in the chart)
+the process way for this column (modbusReadRegister in the chart) in modbus:
+if it is "connection failed", mark as 0
+if it is "25|2|88", mark as 1
+if it is "0|0|0", mark as 2
+if it contain other 3 numbers, mark as 3 (default situation)
+
+---modbus conpot feature 2 - modbusErrorRequestTime: float and convert to int by k-bins algorithm
+conpot has no response for illegal function code
+so the response time is extremely low if send illegal function code continuously
+(the response time even cannot be affected by hop number)
+if there is no read/write register function, high likely a modbus conpot
+no response for receiving illegal function codes continuously
+
+ErrorResponseTime (modbusErrorRequestTime (ms)) need encode into several the same width groups
+since difference is too large (referenced in https://github.com/yunyueye/honeypot/blob/main/process_data.py)
+according to data and referenced paper
+the ErrorResponseTime is from 0.891999959946ms to 2058.43200016ms
+average is 168.609806451558ms
+so divide the time by k-bins algorithm which is provide by scikit-learn library
+''kbd = KBinsDiscretizer(n_bins=20, encode='ordinal', strategy='uniform')''
+some cells may be empty (in practice, all cells contain a float value), it indicates the IP cannot response the error code
+in this case, it can be regarded as 0 in experiments, and it can be regarded as likely non-modbus device in label step
+the measure/unit of modbusErrorRequestTime is (ms/millisecond)
+be cautious, modbusErrorRequestTime is affected by common characteristic 2 (OpenPortNum)
+can reference https://github.com/yunyueye/honeypot/blob/main/process_modbus_data.py to process modbus data
+
+---common characteristic 1
+
+Hop number (hopNum in the chart) is a common TCP/IP protocol characteristic
+hop num in modbus: 13<hopnum<30, split every 5 hops as a group
+11-15 as 0, 16-20 as 1, 21-25 as 2, 26-30 as 3
+
+---common characteristic 2
+
+open ports number (OpenPortNum in the chart) is a common TCP/IP protocol characteristic
+OpenPortNum are the same as origin value in the chart (do not need any conversion)
+
+------
+
+common
+
+---will not observe which concrete ports are open in experiments---
+---do not use it in experiments---
+hopNum and OpenPortNum are as mentioned above
+modbus default 502, ATG default 10001, S7 default 102
+common ICS may not open too many common ports like 22, 23, 25, 80, 443, 8080, 5900
+
+---common characteristic 3 - string, and already be labeled as several situations
+OS (OS_conclusion in the chart): most low interact honeypots are deployed in VM or cloud or VPS, it may use Linux, Windows server or Windows, but other devices have many types of OS
+for OS, Linux (exclude embedded and android) mark as 0
+Windows (include server but exclude embedded) mark as 1
+Unix mark as 2, common proprietary OS (include Windows embedded, Linux embedded and Android) mark as 3
+ICS proprietary OS (label as ICS in the chart) mark as 4
+some devices may contain different OS characteristics at the same time, in such case, it will be marked as (ambiguous in the chart) 5
+unknown mark as 6
+Default is unknown, but some may be marked as other type of OS according to some reason, and the reason will be explained in note
+
+---common characteristic 4  - string, and already be labeled as several situations
+ISP (ISP_conclusion in the chart): if it is deployed in cloud or virtual host
+If ISP is cloud, or ISP is ordinary broadband or mobile service with Windows OS and open more than 3 ports, or ISP is University of Maryland, it is honeypot
+
+for ISP (ISP_conclusion in the chart), mark cloud and VPS, hosting and datacenter as 0
+University (mainly refer to University of Maryland (label as UoM in the chart) as 1
+other ordinary ISP (telecom in the chart) mark as 2
+education and research network (except UoM, edu in the chart) mark as 3
+industrial company (industry in the chart) mark as 4
+unknown mark as 5
+Default is unknown
+if ISP_old and ISP_shodan has different result or the ISP can provide cloud and broadband
+it mark as (ambiguous in the chart) 6
+but some seemingly default may be marked as other type of ISP according to some reason, and the reason will be explained in note
+
+
+------
+for isHoneypot (isHoneypot_new in the chart) label:
+unknown device (unknown in the chart) mark as 0
+honeypot (honeypot in the chart) mark as 1
+real ICS (ICS in the chart) mark as 2
+other known device (other in the chart) mark as 3
+some devices which contain features of different type may be mark as (ambiguous in the chart) as 4
