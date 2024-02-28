@@ -13,7 +13,7 @@ the processed data of original datasets are also in corresponding sub-directory 
 The experimental results are in the folders of their corresonding algorithms of this folder, the filenames end with result, and the common features and all features are distinguished
 
 ### [results.csv](./result.csv)
-The experimental results in this file just a summary of all results and compare with [Wu's research](). You can execute the program by yourself to check the result (*mention: datasets and source code may be updated. Although I will try to make sure all files in the repository are updated correctly, the result may be different. It is just a reference*)
+The experimental results in this file just a summary of all results and compare with Wu's research (the paper is not open access till now). You can execute the program by yourself to check the result (*mention: datasets and source code may be updated. Although I will try to make sure all files in the repository are updated correctly, the result may be different. It is just a reference*)
 
 ### [main.py](./main.py)
 The main entrance of all ML program, including four machine learning algorithm experiments of three protocols, distinguishes common features and all features, and supports parameter search
