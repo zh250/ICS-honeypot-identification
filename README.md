@@ -32,7 +32,7 @@ The mian innovation in this project is the feature extraction and processing met
 
 #### Requirements
 
-Operating system and libraries: tested on Ubuntu 22.04 LTS with Python 3.10.12, numpy 1.20.2, pandas 2.1.3, scipy 1.11.4, sklearn 1.4.1.post1 and mocOS 12.7.4 (Intel) with Python 3.9.6, numpy 1.24.3, pandas 2.0.1, scipy 1.10.1, sklearn 1.2.2
+Operating system and libraries: tested on Ubuntu 22.04 LTS with Python 3.10.12, numpy 1.20.2, pandas 2.1.3, scipy 1.11.4, sklearn 1.4.1.post1 and macOS 12.7.4 (Intel) with Python 3.9.6, numpy 1.24.3, pandas 2.0.1, scipy 1.10.1, sklearn 1.2.2
 
 #### Executing steps
 
@@ -47,10 +47,11 @@ Operating system and libraries: tested on Ubuntu 22.04 LTS with Python 3.10.12, 
 
 
 ## Future works
-The project can be regarded as a work of cyber assets discovery and identification as well since it is a multi-class classifcation
 
-More ICS and IoT and even some IT protocols which are used by CPSs may be studied in the future.
+The project can be regarded as a work of cyber assets discovery and identification since it is a multi-class classifcation
 
-Although it demonstrated a relatively good preformance, but preformance in modbus is obviously worse than ATG and S7. Results of permutation feature importance have not been explained with some other phenomena have not been explained till now.
+More ICS and IoT and even some IT protocols which are used by CPSs may be studied in the future
 
-These phenomena indicated futher study and improvement of feature extraction and processing method are necessary. Some ideas were already in my mind, but immature.
+Although it demonstrated a relatively good preformance, but preformance in Modbus is obviously worse than ATG and S7. Results of permutation feature importance and some other phenomena have not been explained till now.
+
+These phenomena indicated further study and improvement of feature extraction and processing method are necessary. Some ideas were already in my mind, but immature.
