@@ -1,0 +1,99 @@
+# ┌─────────────────────────────────────────────────────────────────────────────
+# │ 1. Core Python
+# └─────────────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+eggs/
+*.egg-info/
+pip-wheel-metadata/
+share/python-wheels/       # wheel caches :contentReference[oaicite:12]{index=12}
+*.manifest
+*.spec
+
+# ┌─────────────────────────────────────────────────────────────────────────────
+# │ 2. Env & IDE
+# └─────────────────────────────────────────────────────────────────────────────
+.env
+.env.*
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+__pypackages__/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ┌─────────────────────────────────────────────────────────────────────────────
+# │ 3. Data-Science & ML
+# └─────────────────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+mlruns/
+mlartifacts/
+runs/
+*.tfevents.*
+checkpoint*/
+.pytest_cache/
+.coverage
+.hypothesis/
+
+# ┌─────────────────────────────────────────────────────────────────────────────
+# │ 4. Text & Excel Inputs
+# └─────────────────────────────────────────────────────────────────────────────
+# Ignore all raw exports
+# data/raw/*.csv        # generally, raw data should be ignored, but in this case, put all raw data under ./data path directly
+# data/raw/*.txt        # generally, raw data should be ignored, but in this case, put all raw data under ./data path directly
+*.xls
+*.xlsx
+# But track config & reference inputs
+!data/config.txt
+!inputs/*.txt           # small reference files :contentReference[oaicite:13]{index=13}
+!data/reference.xlsx
+
+# ┌─────────────────────────────────────────────────────────────────────────────
+# │ 5. Web & BI Tools
+# └─────────────────────────────────────────────────────────────────────────────
+instance/
+.webassets-cache
+docs/_build/
+*.hyper
+*.tde
+*.twb.backup
+*.twbx
+*.pbix
+*.pbit
+
+# ┌─────────────────────────────────────────────────────────────────────────────
+# │ 6. Databases & Schema
+# └─────────────────────────────────────────────────────────────────────────────
+*.sqlite3
+*.db
+*.db-journal
+!*.sql                  # track DDL dump :contentReference[oaicite:14]{index=14}
+!migrations/
+
+# ┌─────────────────────────────────────────────────────────────────────────────
+# │ 7. Credentials & Cloud Keys
+# └─────────────────────────────────────────────────────────────────────────────
+.env
+*.pem
+*.pfx
+serviceAccount*.json
+*credentials*.json
+google-services.json
+azureAuth.json
+
+# ┌─────────────────────────────────────────────────────────────────────────────
+# │ 8. Large Files (Git LFS)
+# └─────────────────────────────────────────────────────────────────────────────
+# For heavier binaries e.g. medium SQLite, configure:
+#   git lfs track "*.db" :contentReference[oaicite:15]{index=15}
